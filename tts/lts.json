@@ -133,15 +133,15 @@
     "category": "Kids",
     "host1": "https://mhdtvworld.me/",
     "server1": "https://boomtv.co.in/ayna/player2.php?c=SonyYay",
-    "host2": "livepush.io/hls-player/index.html",
-    "server2": "https://player.livepush.io/emv_UJDL8n9r4",
+    "host2": "",
+    "server2": "",
     "host3": "",
     "server3": "",
     "host4": "",
     "server4": "",
     "host5": "",
     "server5": "",
-    "video": ""
+    "video": "https://edge4.bioscopelive.com/hls/anonymous/kjjK1WtorzpDO7M7l9LERg/1699032414/live-sony-yay-sd_hi/index.m3u8"
   },
   {
     "name": "Rongeen",
