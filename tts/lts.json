@@ -2,7 +2,7 @@
   "hot": [
     {
       "name": "T SPORTS",
-      "image": "https://i.ibb.co/qNj5X3m/tsports.jpg",
+      "image": "https://i.ibb.co/Pzt7tTP/Tspprts.jpg",
       "category": "Sports ",
       "host1": "https://tv.durbinlive.com",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=26",
@@ -18,7 +18,7 @@
     },
     {
       "name": "GTV",
-      "image": "https://i.ibb.co/ZcyL7d6/GTV.jpg",
+      "image": "https://i.ibb.co/h2HKbdv/Gtv.jpg",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/gtv.php",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Toffee",
-      "image": "https://i.ibb.co/Tk5yLJZ/toffee.jpg",
+      "image": "https://i.ibb.co/0yqQRPV/toffe.jpg",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://rabi.durbinlive.com/play.php",
@@ -155,7 +155,7 @@
     },
     {
       "name": "Toffee",
-      "image": "https://i.ibb.co/Tk5yLJZ/toffee.jpg",
+      "image": "https://i.ibb.co/0yqQRPV/toffe.jpg",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://rabi.durbinlive.com/play.php",
@@ -267,7 +267,7 @@
     },
     {
       "name": "Rongeen",
-      "image": "https://i.ibb.co/sKVBWDT/Rongeen-Tv.jpg",
+      "image": "https://i.ibb.co/nRSRJrg/rongeen-tv.png",
       "category": "Kids",
       "host1": "https://mhdtvworld.me/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1667&amp;c=Rongeen_TV",
@@ -299,7 +299,7 @@
     },
     {
       "name": "Animal Planet ",
-      "image": "https://i.ibb.co/7g8NwyD/Animal-Planet-Vertical-One-Line-Large-RGB-002.jpg",
+      "image": "https://i.ibb.co/z4WCHn3/IMG-20231105-215225-222.jpg",
       "category": "Entertainment ",
       "host1": "",
       "server1": "",
