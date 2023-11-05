@@ -2,7 +2,7 @@
   "hot": [
     {
       "name": "T SPORTS",
-      "image": "https://i.ibb.co/MfkdYXf/Tspprts.jpg",
+      "image": "https://i.ibb.co/qNj5X3m/tsports.jpg",
       "category": "Sports ",
       "host1": "https://tv.durbinlive.com",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=26",
@@ -18,7 +18,7 @@
     },
     {
       "name": "GTV",
-      "image": "https://i.ibb.co/n7sbHfs/Gtv.jpg",
+      "image": "https://i.ibb.co/ZcyL7d6/GTV.jpg",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/gtv.php",
@@ -50,7 +50,7 @@
     },
     {
       "name": "STAR SPORTS",
-      "image": "https://i.ibb.co/YkG8mHv/star-sports-hd-1-logo-300x300-1.jpg",
+      "image": "https://i.ibb.co/gmWz8N8/download.jpg",
       "category": "Sports",
       "host1": "",
       "server1": "",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Sky Sports",
-      "image": "https://i.ibb.co/FqdpPqK/sky-Sports-cricket.jpg",
+      "image": "https://i.ibb.co/s3GjKZh/sky-Sports-cricket.jpg",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/ipl2.php",
@@ -82,7 +82,7 @@
     },
     {
       "name": "TLT Sports ",
-      "image": "https://i.ibb.co/GQSR8wh/download-2.jpg",
+      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://rabi.durbinlive.com/live.php",
@@ -98,7 +98,7 @@
     },
     {
       "name": "PTV SPORTS ",
-      "image": "https://i.ibb.co/XDXGQZX/PTV-Sports.png",
+      "image": "https://i.ibb.co/MGLcF7L/PTV-Sports.png",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play4.php?c=Ptvsports",
@@ -139,7 +139,7 @@
     },
     {
       "name": "GTV",
-      "image": "https://i.ibb.co/n7sbHfs/Gtv.jpg",
+      "image": "https://i.ibb.co/ZcyL7d6/GTV.jpg",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/gtv.php",
@@ -171,7 +171,7 @@
     },
     {
       "name": "STAR SPORTS",
-      "image": "https://i.ibb.co/YkG8mHv/star-sports-hd-1-logo-300x300-1.jpg",
+      "image": "https://i.ibb.co/gmWz8N8/download.jpg",
       "category": "Sports",
       "host1": "",
       "server1": "",
@@ -187,7 +187,7 @@
     },
     {
       "name": "Sky Sports",
-      "image": "https://i.ibb.co/FqdpPqK/sky-Sports-cricket.jpg",
+      "image": "https://i.ibb.co/s3GjKZh/sky-Sports-cricket.jpg",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/ipl2.php",
@@ -203,7 +203,7 @@
     },
     {
       "name": "TLT Sports ",
-      "image": "https://i.ibb.co/GQSR8wh/download-2.jpg",
+      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://rabi.durbinlive.com/live.php",
@@ -219,7 +219,7 @@
     },
     {
       "name": "PTV SPORTS ",
-      "image": "https://i.ibb.co/XDXGQZX/PTV-Sports.png",
+      "image": "https://i.ibb.co/MGLcF7L/PTV-Sports.png",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play4.php?c=Ptvsports",
@@ -235,7 +235,7 @@
     },
     {
       "name": "SONY AATH",
-      "image": "https://i.ibb.co/Kxm4gkq/SONY-Atr.jpg",
+      "image": "https://i.ibb.co/HNKcjFm/aath.png",
       "category": "Enterteinment",
       "host1": "https://tv.durbinlive.com",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=85",
@@ -251,7 +251,7 @@
     },
     {
       "name": "SONY YAY",
-      "image": "https://i.ibb.co/yV6x9Rr/SONY-YAY.jpg",
+      "image": "https://i.ibb.co/nQyjvGT/yay.png",
       "category": "Kids",
       "host1": "https://mhdtvworld.me/",
       "server1": "https://boomtv.co.in/ayna/player2.php?c=SonyYay",
@@ -283,7 +283,7 @@
     },
     {
       "name": "Discovery",
-      "image": "https://i.ibb.co/ScWXXZK/Discovery.jpg",
+      "image": "https://i.ibb.co/yBk9QSh/Discovery.jpg",
       "category": "Experiment",
       "host1": "https://tv.durbinlive.com",
       "server1": "https://tv.durbinlive.com/api/play3.php?c=https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8",
@@ -315,7 +315,7 @@
     },
     {
       "name": "জলসা MOVIES",
-      "image": "https://i.ibb.co/P4DG74P/jolsa-movies.jpg",
+      "image": "https://i.ibb.co/jMpdCbZ/jalsamovies.webp",
       "category": "Movie",
       "host1": "https://mhdtvworld.me/",
       "server1": "https://boomtv.co.in/bigtv/play.php?watch=fabd4bb2c7cad6790ca86bc9ea9d7ae4a61c0b97c3b65ae0872d37fec8dd4768",
@@ -331,7 +331,7 @@
     },
     {
       "name": "Enterr 10 Bangla",
-      "image": "https://i.ibb.co/QbM3L5T/enter-10-bangla.jpg",
+      "image": "https://i.ibb.co/Cbr5Lwj/enter10.webp",
       "category": "Entertainment ",
       "host1": "",
       "server1": "",
@@ -347,7 +347,7 @@
     },
     {
       "name": "Sun বাংলা",
-      "image": "https://i.ibb.co/yQGQ1R7/Sun-Bangla.png",
+      "image": "https://i.ibb.co/Hdh8bn1/sun-bangla.png",
       "category": "Entertainment",
       "host1": "https://mhdtvworld.me/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1669&amp;c=Sun_Bangla",
@@ -363,7 +363,7 @@
     },
     {
       "name": "ZEE বাংলা",
-      "image": "https://i.ibb.co/mDfd0LB/zee-Bangla.jpg",
+      "image": "https://i.ibb.co/jWL1fvb/zee-banglahd.png",
       "category": "Entertainment ",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play3.php?c=https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8",
@@ -379,7 +379,7 @@
     },
     {
       "name": "সময়",
-      "image": "https://i.ibb.co/1ZXXZQh/somoy.png",
+      "image": "https://i.ibb.co/TTZ6FLb/somoy.png",
       "category": "News ",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=17",
@@ -395,7 +395,7 @@
     },
     {
       "name": "Channel 24",
-      "image": "https://i.ibb.co/12SspJ5/news-24.png",
+      "image": "https://i.ibb.co/fQbyRw2/somoy-1.png",
       "category": "News ",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=19",
@@ -411,7 +411,7 @@
     },
     {
       "name": "Jamuna Tv",
-      "image": "https://i.ibb.co/g6FbmLg/jamunatv.png",
+      "image": "https://i.ibb.co/whd0ZKS/jamunatv.png",
       "category": "News ",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=24",
@@ -427,7 +427,7 @@
     },
     {
       "name": "Ekattor",
-      "image": "https://i.ibb.co/VxP45Lt/ekattor.png",
+      "image": "https://i.ibb.co/12dkNz9/ekattor.png",
       "category": "News ",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=21",
@@ -443,7 +443,7 @@
     },
     {
       "name": "Bangla Vision ",
-      "image": "https://i.ibb.co/zZRCj6K/banglavi.png",
+      "image": "https://i.ibb.co/QX8J2g3/banglavi.png",
       "category": "News ",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=5",
@@ -459,7 +459,7 @@
     },
     {
       "name": "BTV",
-      "image": "https://i.ibb.co/MV0yzcj/btv.png",
+      "image": "https://i.ibb.co/bJt7PWM/btv.png",
       "category": "News",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=1",
@@ -475,7 +475,7 @@
     },
     {
       "name": "Channel I",
-      "image": "https://i.ibb.co/DVNLJG0/channel-i.png",
+      "image": "https://i.ibb.co/F3sxDn1/channel-i.png",
       "category": "News ",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=6",
