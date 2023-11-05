@@ -535,7 +535,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "video": ""
+      "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8"
     },
     {
       "name": "Zee 24",
@@ -551,7 +551,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "video": ""
+      "video": "https://vg-zeeftalive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/zeefta_https/v1/0188823505fd1ea540e602a8c710/0188823555fe1ea5578a028f9e0a/main.m3u8"
     },
     {
       "name": "TV 9",
@@ -567,7 +567,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "video": ""
+      "video": "https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-563504/main.m3u8"
     },
     {
       "name": "S BANGLA",
@@ -583,7 +583,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "video": ""
+      "video": "https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/676844/assetType/media/assetFileId/15920444/contextType/PLAYBACK/isAltUrl/False/a.m3u8"
     },
     {
       "name": "News 18",
@@ -599,7 +599,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "video": ""
+      "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/index.m3u8"
     },
     {
       "name": "আকাশ ৮",
@@ -711,7 +711,7 @@
       "server4": "https://livevoot.co.in/voot/play.php?id=Colors_Bangla_HD_voot_MOB",
       "host5": "https://mhdtvworld.me/",
       "server5": "https://mhdtvworld.me/jwplayer/?source=https%3A%2F%2Fprod-ent-live-gm.jiocinema.com%2Fbpk-tv%2FColors_Bangla_HD_voot_MOB%2FFallback%2Findex.m3u8&amp;id=6412&amp;type=mp4",
-      "video": ""
+      "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8"
     },
     {
       "name": "Jio Foodball",
