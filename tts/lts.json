@@ -572,7 +572,7 @@
     {
       "name": "ATN Bangla",
       "image": "https://i.ibb.co/fNz5WC6/atn-bangla.png",
-      "category": "News ",
+      "category": "News",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=9",
       "host2": "",
