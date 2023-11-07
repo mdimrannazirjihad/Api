@@ -583,7 +583,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "video": "https://live.bongobd.com/hls/4OXv6008TI1EelcTlBOYpA/1699261808/sky-atn-bangla_hi/index.m3u8"
+      "video": ""
     },
     {
       "name": "News 18",
@@ -604,7 +604,7 @@
     {
       "name": "রূপসী বাংলা",
       "image": "https://i.ibb.co/mbxnYs1/rupashi.webp",
-      "category": "Entertainment",
+      "category": "",
       "host1": "https://mhdtvworld.me/",
       "server1": "https://mhdtvworld.me/jwplayer/?source=https%3A%2F%2Flivetv-channels.b-cdn.net%2F8079%2Fchunklist0.m3u8&amp;id=13206&amp;type=mp4",
       "host2": "",
