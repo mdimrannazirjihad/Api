@@ -14,7 +14,7 @@
       "server4": "https://mhdtvworld.me/jwplayer/?source=https%3A%2F%2Flive.tsports.com%2Fmobile_hls%2Ftsports_live%2Fauto.m3u8&amp;id=15133&amp;type=mp4",
       "host5": "",
       "server5": "",
-      "video": "http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0"
+      "video": ""
     },
     {
       "name": "GTV",
@@ -46,16 +46,16 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "video": "http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w87643545_b596000.m3u8"
+      "video": ""
     },
     {
       "name": "Sky Sports",
       "image": "https://i.ibb.co/s3GjKZh/sky-Sports-cricket.jpg",
       "category": "Sports",
       "host1": "https://tv.durbinlive.com/",
-      "server1": "https://tv.durbinlive.com/api/ipl2.php",
+      "server1": "https://tv.durbinlive.com/api/ipl4.php",
       "host2": "https://tv.durbinlive.com/",
-      "server2": "https://tv.durbinlive.com/api/ipl4.php",
+      "server2": "https://tv.durbinlive.com/api/ipl2.php",
       "host3": "https://mhdtvworld.me/",
       "server3": "https://faketv.co.in/criclife/skycricket.php",
       "host4": "https://mhdtvworld.me/",
@@ -84,10 +84,10 @@
       "name": "PTV SPORTS ",
       "image": "https://i.ibb.co/MGLcF7L/PTV-Sports.png",
       "category": "Sports",
-      "host1": "https://tv.durbinlive.com/",
-      "server1": "https://tv.durbinlive.com/api/play4.php?c=Ptvsports",
-      "host2": "https://mhdtvworld.me/",
-      "server2": "https://boomtv.co.in/ayna/player.php?c=Ptvsports",
+      "host1": "https://mhdtvworld.me/",
+      "server1": "https://boomtv.co.in/ayna/player.php?c=Ptvsports",
+      "host2": "https://tv.durbinlive.com/",
+      "server2": "https://tv.durbinlive.com/api/play4.php?c=Ptvsports",
       "host3": "",
       "server3": "",
       "host4": "",
