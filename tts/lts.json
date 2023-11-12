@@ -1418,11 +1418,11 @@
       "video": ""
     },
     {
-      "name": "",
-      "image": "",
-      "category": "",
-      "host1": "",
-      "server1": "",
+      "name": "SSC 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+      "category": "Sports",
+      "host1": "https://korafoot.com/#mobile-menu-toggle",
+      "server1": "https://m1.livehd7xc.com/albaplayer/ssc1/",
       "host2": "",
       "server2": "",
       "host3": "",
