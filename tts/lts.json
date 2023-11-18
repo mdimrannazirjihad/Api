@@ -2043,10 +2043,10 @@
       "video": ""
     },
     {
-      "name": "",
-      "image": "",
-      "host1": "",
-      "server1": "",
+      "name": "Makkah TV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Courtyard_of_the_Great_Mosque_of_Mecca%2C_Saudi_Arabia_%281%29.jpg/116px-Courtyard_of_the_Great_Mosque_of_Mecca%2C_Saudi_Arabia_%281%29.jpg",
+      "host1": "https://www.youtube.com/",
+      "server1": "https://www.youtube.com/embed/PEmRPDJ9I8M?si=AuXce8f3Sx3Dm-zV",
       "host2": "",
       "server2": "",
       "host3": "",
