@@ -2100,8 +2100,8 @@
       "video": ""
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Disney",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/220px-2014_Disney_Channel_logo.svg.png",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -2112,11 +2112,11 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "",
+      "category": "Kids",
       "hot": "",
       "country": "",
       "language": "",
-      "video": ""
+      "video": "https://e1.thetvapp.to/hls/DisneyChannelEast.m3u8?token=SH8XnXGQ6udbl5q0sV9jBA&expires=1700396496"
     },
     {
       "name": "",
