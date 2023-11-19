@@ -2119,10 +2119,10 @@
       "video": "https://e1.thetvapp.to/hls/DisneyChannelEast.m3u8?token=SH8XnXGQ6udbl5q0sV9jBA&expires=1700396496"
     },
     {
-      "name": "",
-      "image": "",
-      "host1": "",
-      "server1": "",
+      "name": "Dhoom Music",
+      "image": "https://i.ibb.co/GH8TfVH/dhoom.webp",
+      "host1": "https://mhdtvworld.me/",
+      "server1": "https://otttv.co.in/play.php?watch=dhoom-music",
       "host2": "",
       "server2": "",
       "host3": "",
@@ -2131,7 +2131,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "",
+      "category": "Music",
       "hot": "",
       "country": "",
       "language": "",
