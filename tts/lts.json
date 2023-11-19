@@ -447,6 +447,25 @@
       "video": ""
     },
     {
+      "name": "Sports18 1 HD",
+      "image": "https://i.imgur.com/Yg62T49.png",
+      "host1": "",
+      "server1": "",
+      "host2": "",
+      "server2": "",
+      "host3": "",
+      "server3": "",
+      "host4": "",
+      "server4": "",
+      "host5": "",
+      "server5": "",
+      "category": "Sports",
+      "hot": "",
+      "country": "",
+      "language": "",
+      "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8"
+    },
+    {
       "name": "Viaplay",
       "image": "https://i.ibb.co/6F9zXq3/viaplay-tv.png",
       "host1": "",
@@ -2079,25 +2098,6 @@
       "country": "",
       "language": "",
       "video": ""
-    },
-    {
-      "name": "Sports18 1 HD",
-      "image": "https://i.imgur.com/Yg62T49.png",
-      "host1": "",
-      "server1": "",
-      "host2": "",
-      "server2": "",
-      "host3": "",
-      "server3": "",
-      "host4": "",
-      "server4": "",
-      "host5": "",
-      "server5": "",
-      "category": "Sports",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8"
     },
     {
       "name": "",
