@@ -99,7 +99,8 @@
   "cat": [
     {
       "name": "SPORTS",
-      "image": "https://i.ibb.co/MfkdYXf/Tspprts.jpg",
+      "bigImage": "https://i.ibb.co/MfkdYXf/Tspprts.jpg",
+      "shortImage": "https://i.ibb.co/MfkdYXf/Tspprts.jpg",
       "tag": "Sports "
     }
   ],
