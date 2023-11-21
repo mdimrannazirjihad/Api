@@ -105,7 +105,8 @@
   "cat": [
     {
       "name": "SPORTS",
-      "flag": "https://images.toffeelive.com/images/ugc/category/16/thumbnail/category_thumbnail_url_230828165800.png",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/16/thumbnail/category_thumbnail_url_230828165800.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/16/icon/category_icon_230827100334.png",
       "tag": "Sports "
     }
   ],
