@@ -20,90 +20,6 @@
       "source": "",
       "referer": "",
       "video": ""
-    },
-    {
-      "name": "GTV",
-      "image": "https://i.ibb.co/ZcyL7d6/GTV.jpg",
-      "host1": "https://tv.durbinlive.com/",
-      "server1": "https://tv.durbinlive.com/api/gtv.php",
-      "host2": "",
-      "server2": "",
-      "host3": "",
-      "server3": "",
-      "host4": "",
-      "server4": "",
-      "host5": "",
-      "server5": "",
-      "category": "Sports",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "source": "",
-      "referer": "",
-      "video": ""
-    },
-    {
-      "name": "Star select 1",
-      "image": "https://i.ibb.co/pwv00kk/download-1.jpg",
-      "host1": "https://mhdtvworld.me/",
-      "server1": "https://boomtv.co.in/ayna/player.php?c=ssps1hd",
-      "host2": "",
-      "server2": "",
-      "host3": "",
-      "server3": "",
-      "host4": "",
-      "server4": "",
-      "host5": "",
-      "server5": "",
-      "category": "Sports",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "source": "",
-      "referer": "",
-      "video": ""
-    },
-    {
-      "name": "STAR SPORTS",
-      "image": "https://i.ibb.co/gmWz8N8/download.jpg",
-      "host1": "",
-      "server1": "",
-      "host2": "",
-      "server2": "",
-      "host3": "",
-      "server3": "",
-      "host4": "",
-      "server4": "",
-      "host5": "",
-      "server5": "",
-      "category": "Sports",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "source": "",
-      "referer": "",
-      "video": "http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w87643545_b596000.m3u8"
-    },
-    {
-      "name": "Sky Sports",
-      "image": "https://i.ibb.co/s3GjKZh/sky-Sports-cricket.jpg",
-      "host1": "https://mhdtvworld.me/",
-      "server1": "https://faketv.co.in/criclife/skycricket.php",
-      "host2": "https://tv.durbinlive.com/",
-      "server2": "https://tv.durbinlive.com/api/ipl4.php",
-      "host3": "https://mhdtvworld.me/",
-      "server3": "https://faketv.co.in/criclife/skycricket.php",
-      "host4": "https://mhdtvworld.me/",
-      "server4": "https://faketv.co.in/criclife/skymain.php",
-      "host5": "https://mhdtvworld.me/",
-      "server5": "https://faketv.co.in/criclife/skymix.php",
-      "category": "Sports",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "source": "",
-      "referer": "",
-      "video": ""
     }
   ],
   "cat": [
@@ -119,6 +35,21 @@
       "name": "Bangladesh",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/320px-Flag_of_Bangladesh.svg.png",
       "tag": "bd"
+    },
+    {
+      "name": "",
+      "flag": "",
+      "tag": ""
+    },
+    {
+      "name": "India",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+      "tag": "india"
+    },
+    {
+      "name": "United States",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png",
+      "tag": "us"
     }
   ],
   "all": [
