@@ -40,6 +40,12 @@
       "bigImage": "https://images.toffeelive.com/images/ugc/category/1/thumbnail/category_thumbnail_url_220616131510.png",
       "shortImage": "https://images.toffeelive.com/images/ugc/category/1/icon/category_icon_201128160651.png",
       "tag": "movie"
+    },
+    {
+      "name": "Music",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/2/thumbnail/category_thumbnail_url_220616132555.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/2/icon/category_icon_201128161408.png",
+      "tag": "music"
     }
   ],
   "con": [
@@ -1946,7 +1952,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "Music",
+      "category": "music",
       "hot": "",
       "country": "india",
       "language": "",
@@ -2324,7 +2330,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "Music",
+      "category": "music",
       "hot": "",
       "country": "india",
       "language": "",
