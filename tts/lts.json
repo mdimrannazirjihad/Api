@@ -561,7 +561,7 @@
       "language": "",
       "source": "",
       "referer": "",
-      "video": ""
+      "video": "https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd"
     },
     {
       "name": "SSC 2",
@@ -582,7 +582,7 @@
       "language": "",
       "source": "",
       "referer": "",
-      "video": ""
+      "video": "https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd"
     },
     {
       "name": "SSC 3",
@@ -603,7 +603,7 @@
       "language": "",
       "source": "",
       "referer": "",
-      "video": ""
+      "video": "https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd"
     },
     {
       "name": "SSC 4",
@@ -624,7 +624,7 @@
       "language": "",
       "source": "",
       "referer": "",
-      "video": ""
+      "video": "https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd"
     },
     {
       "name": "SSC 5",
@@ -645,7 +645,7 @@
       "language": "",
       "source": "",
       "referer": "",
-      "video": ""
+      "video": "https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd"
     },
     {
       "name": "SSC EXTRA1",
@@ -666,7 +666,7 @@
       "language": "",
       "source": "",
       "referer": "",
-      "video": ""
+      "video": "https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd"
     },
     {
       "name": "SSC EXTRA2",
@@ -687,7 +687,7 @@
       "language": "",
       "source": "",
       "referer": "",
-      "video": ""
+      "video": "https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e29c/index.mpd"
     },
     {
       "name": "SSC EXTRA3",
@@ -708,7 +708,7 @@
       "language": "",
       "source": "",
       "referer": "",
-      "video": ""
+      "video": "https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd"
     },
     {
       "name": "SSC EXTRA4",
