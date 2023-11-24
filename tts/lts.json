@@ -34,6 +34,12 @@
       "bigImage": "https://images.toffeelive.com/images/ugc/category/14/thumbnail/category_thumbnail_url_220616132537.png",
       "shortImage": "https://images.toffeelive.com/images/ugc/category/14/icon/category_icon_201128172428.png",
       "tag": "kids"
+    },
+    {
+      "name": "Movies",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/1/thumbnail/category_thumbnail_url_220616131510.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/1/icon/category_icon_201128160651.png",
+      "tag": "movie"
     }
   ],
   "con": [
@@ -1163,7 +1169,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "Movie",
+      "category": "movie",
       "hot": "",
       "country": "india",
       "language": "",
@@ -1184,7 +1190,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "Movie",
+      "category": "movie",
       "hot": "",
       "country": "india",
       "language": "",
@@ -1856,7 +1862,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "Movie",
+      "category": "movie",
       "hot": "",
       "country": "india",
       "language": "",
