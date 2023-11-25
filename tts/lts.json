@@ -49,8 +49,8 @@
     },
     {
       "name": "Entertainment",
-      "bigImage": "https://i.ibb.co/426dZ3j/enterteinment.png",
-      "shortImage": "https://images.toffeelive.com/images/ugc/category/4/icon/category_icon_201128162106.png",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/9/thumbnail/category_thumbnail_url_220616131456.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/9/icon/category_icon_201128162249.png",
       "tag": "entertainment"
     },
     {
@@ -58,6 +58,12 @@
       "bigImage": "https://i.ibb.co/dGzXNmN/news.jpg",
       "shortImage": "https://images.toffeelive.com/images/ugc/category/4/icon/category_icon_201128162106.png",
       "tag": "news"
+    },
+    {
+      "name": "Documentary",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/4/thumbnail/category_thumbnail_url_220616132732.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/4/icon/category_icon_201128162106.png",
+      "tag": "doc"
     }
   ],
   "con": [
@@ -419,7 +425,7 @@
       "video": ""
     },
     {
-      "name": "TLT Sports ",
+      "name": "TLT Sports",
       "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://rabi.durbinlive.com/live.php",
@@ -440,7 +446,7 @@
       "video": "https://cdn.live247stream.com/thelight/tv/playlist.m3u8"
     },
     {
-      "name": "PTV SPORTS ",
+      "name": "PTV SPORTS",
       "image": "https://i.ibb.co/MGLcF7L/PTV-Sports.png",
       "host1": "https://mhdtvworld.me/",
       "server1": "https://boomtv.co.in/ayna/player.php?c=Ptvsports",
@@ -1145,7 +1151,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "Experiment",
+      "category": "doc",
       "hot": "",
       "country": "us",
       "language": "",
@@ -1154,7 +1160,7 @@
       "video": "https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8"
     },
     {
-      "name": "Animal Planet ",
+      "name": "Animal Planet",
       "image": "https://i.ibb.co/z4WCHn3/IMG-20231105-215225-222.jpg",
       "host1": "",
       "server1": "",
@@ -1166,13 +1172,34 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "entertainment ",
+      "category": "doc",
       "hot": "",
       "country": "us",
       "language": "",
       "source": "",
       "referer": "",
       "video": "https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8"
+    },
+    {
+      "name": " National Geographic",
+      "image": "https://yt3.googleusercontent.com/13FpK4FfJb_I-aTMNRQTmaxLO2vjEi_NzWm1KxOzr-vjYLX7QmfHwn6XC3PfEf4Oay5WjP0CXw=s176-c-k-c0x00ffffff-no-rj",
+      "host1": "https://www.youtube.com/",
+      "server1": "https://www.youtube.com/embed/gsA3-3_Cl8s?si=dAgO3GOXMd5f3hMm",
+      "host2": "",
+      "server2": "",
+      "host3": "",
+      "server3": "",
+      "host4": "",
+      "server4": "",
+      "host5": "",
+      "server5": "",
+      "category": "doc",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "source": "",
+      "referer": "",
+      "video": ""
     },
     {
       "name": "জলসা MOVIES",
@@ -1250,7 +1277,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "entertainment ",
+      "category": "entertainment",
       "hot": "",
       "country": "india",
       "language": "",
@@ -1343,7 +1370,7 @@
       "video": ""
     },
     {
-      "name": "Bangla Vision ",
+      "name": "Bangla Vision",
       "image": "https://i.ibb.co/QX8J2g3/banglavi.png",
       "host1": "https://tv.durbinlive.com/",
       "server1": "https://tv.durbinlive.com/api/play2.php?c=5",
@@ -2027,7 +2054,7 @@
       "server4": "",
       "host5": "",
       "server5": "",
-      "category": "entertainment ",
+      "category": "entertainment",
       "hot": "",
       "country": "india",
       "language": "",
