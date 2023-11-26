@@ -154,8 +154,8 @@
     {
       "name": "Astro Cricket",
       "image": "https://i.ibb.co/425qRrM/astro-cricket-screen-bug-logo-by-tv4malaysia-dfpmqx5-375w-2x.png",
-      "host1": "https://stream2watch.pk/",
-      "server1": "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=98",
+      "host1": "",
+      "server1": "",
       "host2": "",
       "server2": "",
       "host3": "",
@@ -169,8 +169,8 @@
       "country": "Malaysia",
       "language": "",
       "source": "",
-      "referer": "",
-      "video": ""
+      "referer": "https://weblivehdplay.ru/",
+      "video": "https://ddh2.hlsjs.ru/ddh2/premium370/tracks-v1a1/mono.m3u8"
     },
     {
       "name": "Toffee",
@@ -238,8 +238,8 @@
     {
       "name": "Sky Sports",
       "image": "https://i.ibb.co/s3GjKZh/sky-Sports-cricket.jpg",
-      "host1": "https://crichd.vip/",
-      "server1": "http://stream.crichd.vip/update/skys2.php",
+      "host1": "https://mhdtvworld.me/",
+      "server1": "https://faketv.co.in/criclife/skycricket.php",
       "host2": "https://tv.durbinlive.com/",
       "server2": "https://tv.durbinlive.com/api/ipl4.php",
       "host3": "https://mhdtvworld.me/",
@@ -2354,7 +2354,7 @@
       "language": "",
       "source": "",
       "referer": "",
-      "video": "https://e1.thetvapp.to/hls/DisneyChannelEast.m3u8?token=3Jpk0B7sGyLOf452yDfYkA&expires=1700565146"
+      "video": "https://e2.thetvapp.to/hls/DisneyChannelEast.m3u8?token=UsdPlEAkznCabq1YVNt2WA&expires=1700950210"
     },
     {
       "name": "Dhoom Music",
