@@ -1354,8 +1354,8 @@
       "country": "india",
       "language": "",
       "cookie": "",
-      "source": "https://tv.durbinlive.com/api/play2.php?c=85",
-      "referer": "https://tv.durbinlive.com/",
+      "source": "https://mhdtv.co.in/jio/play.php?id=697&c=Sony_aath",
+      "referer": "https://watchmhdtv.com/",
       "video": ""
     },
     {
@@ -1379,6 +1379,28 @@
       "source": "https://mhdtvpro.com/ayna/player2.php?c=SonyYay",
       "referer": "https://watchmhdtv.com/",
       "video": ""
+    },
+    {
+      "name": "SONY YAY",
+      "image": "https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png",
+      "host1": "",
+      "server1": "",
+      "host2": "",
+      "server2": "",
+      "host3": "",
+      "server3": "",
+      "host4": "",
+      "server4": "",
+      "host5": "",
+      "server5": "",
+      "category": "toffee",
+      "hot": "",
+      "country": "",
+      "language": "",
+      "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1701501181:KeyName=prod_linear:Signature=xc98tbYZQfTpekPmQo3Ycr3PTrv6hDQfJoVbQxaUXrVIgj_6Amyi2cwxCybQMtBDR-qZkbOAGKq7EXiPEr-qDw",
+      "source": "",
+      "referer": "",
+      "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8"
     },
     {
       "name": "SONY KAL",
@@ -4503,28 +4525,6 @@
       "source": "",
       "referer": "",
       "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8"
-    },
-    {
-      "name": "SONY YAY",
-      "image": "https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png",
-      "host1": "",
-      "server1": "",
-      "host2": "",
-      "server2": "",
-      "host3": "",
-      "server3": "",
-      "host4": "",
-      "server4": "",
-      "host5": "",
-      "server5": "",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1701501181:KeyName=prod_linear:Signature=xc98tbYZQfTpekPmQo3Ycr3PTrv6hDQfJoVbQxaUXrVIgj_6Amyi2cwxCybQMtBDR-qZkbOAGKq7EXiPEr-qDw",
-      "source": "",
-      "referer": "",
-      "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8"
     },
     {
       "name": "Sonic",
