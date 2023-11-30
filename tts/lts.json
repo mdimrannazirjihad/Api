@@ -31,6 +31,12 @@
       "tag": "Sports"
     },
     {
+      "name": "Toffee",
+      "bigImage": "https://i.ibb.co/K75SGFS/toffe.jpg",
+      "shortImage": "https://i.ibb.co/zG11CsW/fdef.png",
+      "tag": "toffee"
+    },
+    {
       "name": "Kids",
       "bigImage": "https://images.toffeelive.com/images/ugc/category/14/thumbnail/category_thumbnail_url_220616132537.png",
       "shortImage": "https://images.toffeelive.com/images/ugc/category/14/icon/category_icon_201128172428.png",
@@ -65,12 +71,6 @@
       "bigImage": "https://images.toffeelive.com/images/ugc/category/4/thumbnail/category_thumbnail_url_220616132732.png",
       "shortImage": "https://images.toffeelive.com/images/ugc/category/4/icon/category_icon_201128162106.png",
       "tag": "doc"
-    },
-    {
-      "name": "Toffee",
-      "bigImage": "https://i.ibb.co/K75SGFS/toffe.jpg",
-      "shortImage": "https://i.ibb.co/zG11CsW/fdef.png",
-      "tag": "toffee"
     }
   ],
   "con": [
@@ -2942,7 +2942,6 @@
       "referer": "",
       "video": "https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-480p.m3u8"
     },
-
     {
       "name": "TOFFEE Live 1 VIP",
       "image": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_724275001701244521.png",
@@ -3001,7 +3000,7 @@
       "host5": "",
       "server5": "",
       "category": "toffee",
-      "hot": "",
+      "hot": "yes",
       "country": "",
       "language": "",
       "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1701501181:KeyName=prod_linear:Signature=xc98tbYZQfTpekPmQo3Ycr3PTrv6hDQfJoVbQxaUXrVIgj_6Amyi2cwxCybQMtBDR-qZkbOAGKq7EXiPEr-qDw",
@@ -4453,7 +4452,7 @@
       "host5": "",
       "server5": "",
       "category": "toffee",
-      "hot": "",
+      "hot": "yes",
       "country": "",
       "language": "",
       "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1701501181:KeyName=prod_linear:Signature=xc98tbYZQfTpekPmQo3Ycr3PTrv6hDQfJoVbQxaUXrVIgj_6Amyi2cwxCybQMtBDR-qZkbOAGKq7EXiPEr-qDw",
