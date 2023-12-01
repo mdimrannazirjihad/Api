@@ -6067,6 +6067,28 @@
       "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8"
     },
     {
+      "name": "And Pictures HD",
+      "image": "https://i.ibb.co/VjcpD3v/andpichdd-185x278.webp",
+      "host1": "",
+      "server1": "",
+      "host2": "",
+      "server2": "",
+      "host3": "",
+      "server3": "",
+      "host4": "",
+      "server4": "",
+      "host5": "",
+      "server5": "",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "cookie": "",
+      "source": "",
+      "referer": "",
+      "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8"
+    },
+    {
       "name": "DD National",
       "image": "https://i.ibb.co/rvwKYx2/DDNATIONALTV-185x278.jpg",
       "host1": "",
@@ -6508,7 +6530,7 @@
     },
     {
       "name": "Zee TV HD",
-      "image": "https://i.ibb.co/0D1C0rV/zeeanmol-CINEMATV-185x278.jpg",
+      "image": "https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png",
       "host1": "",
       "server1": "",
       "host2": "",
