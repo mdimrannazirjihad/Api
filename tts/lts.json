@@ -5957,8 +5957,8 @@
       "video": ""
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Goldmines Bollywood",
+      "image": "https://i.ibb.co/D7khLZ0/goldbolly-185x278.webp",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -5974,13 +5974,13 @@
       "country": "india",
       "language": "hi",
       "cookie": "",
-      "source": "",
+      "source": "https://mhdtvpro.com/ayna/player2.php?c=GoldminesBollywood",
       "referer": "https://watchmhdtv.com/",
       "video": ""
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Colors Cineplex HD",
+      "image": "https://i.ibb.co/MScpn6K/Colors-Cineplex-TV-white-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -5997,12 +5997,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Colors Rishtey",
+      "image": "https://i.ibb.co/fDMyCCX/rishtry-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6019,12 +6019,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Colors Cineplex B",
+      "image": "https://i.ibb.co/DWnLDSp/cenwplex-bollywod.png",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6041,12 +6041,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "AND TV",
+      "image": "https://i.ibb.co/L9QFHms/and-tv.png",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6063,12 +6063,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "DD National",
+      "image": "https://i.ibb.co/rvwKYx2/DDNATIONALTV-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6085,12 +6085,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Show Box",
+      "image": "https://i.ibb.co/hgWXYSh/SHOWBOX-185x278.webp",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6107,12 +6107,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://epiconvh.s.llnwi.net/showbox/master.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Manoranjan Tv",
+      "image": "https://i.ibb.co/TRjk5WC/monarangan-tv.png",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6129,12 +6129,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://idvd.multitvsolution.com/idvo/manoranjantv.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Gubbare",
+      "image": "https://i.ibb.co/Ycb74v0/gubbare-185x278.webp",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6151,12 +6151,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://epiconvh.s.llnwi.net/gubbare/master.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Ishara TV",
+      "image": "https://i.ibb.co/qgzZjsX/ishara-185x278.webp",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6173,12 +6173,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://epiconvh.s.llnwi.net/ishaara/master.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "WOW Cinema One",
+      "image": "https://i.ibb.co/DVHh7w6/wow-cinema.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6195,12 +6195,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://idvd.multitvsolution.com/idvo/wowcinema.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Maha Movie",
+      "image": "https://i.ibb.co/ZV3RV1w/maham-185x278.webp",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6217,12 +6217,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://idvd.multitvsolution.com/idvo/mahamovie.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Animal Planet Hindi",
+      "image": "https://i.ibb.co/N9ZzRqC/animal-planet.png",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6239,12 +6239,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://watchmhdtv.com/delta/discovery/api/Animal_Planettv_Hindi.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Nickelodeon Sonic Hindi",
+      "image": "https://i.ibb.co/NZtF1zP/sonic-hindi.png",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6261,12 +6261,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Joo Music",
+      "image": "https://i.ibb.co/xS3qdLJ/joomusic-185x278.webp",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6283,12 +6283,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Nazara TV",
+      "image": "https://i.ibb.co/H45yDbh/nazra-tv.webp",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6305,12 +6305,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://epiconvh.s.llnwi.net/nazara/master.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Epic",
+      "image": "https://i.ibb.co/d0PsDqV/Epic-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6327,12 +6327,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://epiconvh.s.llnwi.net/epic/master.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "9X Music",
+      "image": "https://i.ibb.co/m5Sz2Nt/9xm-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6349,12 +6349,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://dishtv-test.akamaized.net/111122/9xmusic/playlist.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Mastiiii",
+      "image": "https://i.ibb.co/c8wYVgn/mastiii-185x278.webp",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6371,12 +6371,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sab_nim_https/110322/mastii/playlist.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "MTV Beats HD",
+      "image": "https://i.ibb.co/M8W1ZWV/mtv-bets.png",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6393,12 +6393,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Dangal",
+      "image": "https://i.ibb.co/BPx0YSn/DANGAL-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6415,12 +6415,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://dangalplaycdn.vidgyor.com/pub-iodang10p4al/liveabr/playlist.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Bollywood Classic HD",
+      "image": "https://i.ibb.co/TWPGNzL/bollywood.webp",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6437,12 +6437,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Zee Anmol Cinema",
+      "image": "https://i.ibb.co/0D1C0rV/zeeanmol-CINEMATV-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6459,12 +6459,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Zee Bollywood",
+      "image": "https://i.ibb.co/Jmn5Bj8/zeebollywood-1-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6481,12 +6481,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Zee Action",
+      "image": "https://i.ibb.co/nBm8ryV/zeeaction-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6503,12 +6503,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Zee TV HD",
+      "image": "https://i.ibb.co/0D1C0rV/zeeanmol-CINEMATV-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6525,12 +6525,12 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8"
     },
     {
-      "name": "",
-      "image": "",
+      "name": "Zee Cinema HD",
+      "image": "https://i.ibb.co/WP7hhH0/zeecinemahd-185x278.jpg",
       "host1": "",
       "server1": "",
       "host2": "",
@@ -6547,8 +6547,8 @@
       "language": "hi",
       "cookie": "",
       "source": "",
-      "referer": "https://watchmhdtv.com/",
-      "video": ""
+      "referer": "",
+      "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8"
     },
     {
       "name": "",
