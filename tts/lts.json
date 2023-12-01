@@ -166,8 +166,8 @@
       "country": "bd",
       "language": "",
       "cookie": "",
-      "source": "",
-      "referer": "",
+      "source": "https://mhdtvpro.com/ayna/player.php?c=gtvhd",
+      "referer": "https://watchmhdtv.com/",
       "video": ""
     },
     {
@@ -193,28 +193,6 @@
       "video": "https://ddh2.hlsjs.ru/ddh2/premium370/tracks-v1a1/mono.m3u8"
     },
     {
-      "name": "Toffee",
-      "image": "https://i.ibb.co/0yqQRPV/toffe.jpg",
-      "host1": "https://tv.durbinlive.com/",
-      "server1": "https://rabi.durbinlive.com/play.php",
-      "host2": "https://tv.durbinlive.com/",
-      "server2": "https://rabi.durbinlive.com/live.php",
-      "host3": "",
-      "server3": "",
-      "host4": "",
-      "server4": "",
-      "host5": "",
-      "server5": "",
-      "category": "",
-      "hot": "",
-      "country": "bd",
-      "language": "",
-      "cookie": "",
-      "source": "",
-      "referer": "",
-      "video": ""
-    },
-    {
       "name": "Star select 1",
       "image": "https://i.ibb.co/pwv00kk/download-1.jpg",
       "host1": "https://watchmhdtv.com/",
@@ -232,8 +210,8 @@
       "country": "india",
       "language": "",
       "cookie": "",
-      "source": "",
-      "referer": "",
+      "source": "https://mhdtvpro.com/ayna/player.php?c=ssps1hd",
+      "referer": "https://watchmhdtv.com/",
       "video": ""
     },
     {
@@ -496,8 +474,8 @@
       "country": "pk",
       "language": "",
       "cookie": "",
-      "source": "",
-      "referer": "",
+      "source": "https://mhdtvpro.com/ayna/player.php?c=Ptvsports",
+      "referer": "https://watchmhdtv.com/",
       "video": ""
     },
     {
@@ -1200,8 +1178,8 @@
       "country": "india",
       "language": "",
       "cookie": "",
-      "source": "",
-      "referer": "",
+      "source": "https://mhdtvpro.com/ayna/player.php?c=Ten1HD",
+      "referer": "https://watchmhdtv.com/",
       "video": ""
     },
     {
@@ -1222,8 +1200,8 @@
       "country": "india",
       "language": "",
       "cookie": "",
-      "source": "",
-      "referer": "",
+      "source": "https://mhdtvpro.com/ayna/player2.php?c=Ten2HD",
+      "referer": "https://watchmhdtv.com/",
       "video": ""
     },
     {
@@ -1244,8 +1222,8 @@
       "country": "india",
       "language": "",
       "cookie": "",
-      "source": "",
-      "referer": "",
+      "source": "https://mhdtvpro.com/ayna/player2.php?c=Ten3HD",
+      "referer": "https://watchmhdtv.com/",
       "video": ""
     },
     {
