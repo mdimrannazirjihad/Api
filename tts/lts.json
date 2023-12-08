@@ -3275,10 +3275,10 @@
       "video3": ""
     },
     {
-      "name": "Masranga",
+      "name": "Maasranga TV",
       "image": "https://i.ibb.co/FwYmc47/maasranga-185x278.webp",
       "host1": "https://watchmhdtv.com/",
-      "server1": "https://mhdtvpro.com/ayna/player2.php?c=maasrangatv",
+      "server1": "https://mhdtvpro.com/ayna/play.php?id=11",
       "host2": "",
       "server2": "",
       "host3": "",
@@ -3288,7 +3288,7 @@
       "country": "bd",
       "language": "",
       "cookie1": "",
-      "source1": "https://mhdtvpro.com/ayna/player2.php?c=maasrangatv",
+      "source1": "https://mhdtvpro.com/ayna/play.php?id=11",
       "referer1": "https://watchmhdtv.com/",
       "video1": "",
       "cookie2": "",
