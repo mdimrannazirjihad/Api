@@ -3872,33 +3872,6 @@
       "referer3": "",
       "video3": ""
     },
-
-    {
-      "name": "Global TV",
-      "image": "https://i.ibb.co/K2prw48/globaltv-185x278.webp",
-      "host1": "https://watchmhdtv.com/",
-      "server1": "https://mhdtvpro.com/ayna/play.php?id=34",
-      "host2": "",
-      "server2": "",
-      "host3": "",
-      "server3": "",
-      "category": "entertainment",
-      "hot": "",
-      "country": "bd",
-      "language": "",
-      "cookie1": "",
-      "source1": "https://mhdtvpro.com/ayna/play.php?id=34",
-      "referer1": "https://watchmhdtv.com/",
-      "video1": "",
-      "cookie2": "",
-      "source2": "",
-      "referer2": "",
-      "video2": "",
-      "cookie3": "",
-      "source3": "",
-      "referer3": "",
-      "video3": ""
-    },
     {
       "name": "দেশি টিভি",
       "image": "https://i.ibb.co/Wf96WyN/deshi-tv.png",
