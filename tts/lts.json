@@ -2605,8 +2605,6 @@
     {
       "name": "Ekushey TV",
       "image": "https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=7",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2627,14 +2625,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=7",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=7"
         }
       ]
     },
     {
       "name": "Desh TV",
       "image": "https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=12",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2655,14 +2657,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=12",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=12"
         }
       ]
     },
     {
       "name": "Boishakhi TV",
       "image": "https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=10",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2683,14 +2689,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=10",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=10"
         }
       ]
     },
     {
       "name": "DBC News",
       "image": "https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=29",
       "category": "news",
       "hot": "",
       "country": "bd",
@@ -2711,14 +2721,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=29",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=29"
         }
       ]
     },
     {
       "name": "এখন",
       "image": "https://i.ibb.co/6ycqsR5/ekhon-185x278.webp",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=40",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2731,6 +2745,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=40",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=40"
         }
       ]
     },
