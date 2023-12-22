@@ -2421,8 +2421,6 @@
     {
       "name": "BTV HD",
       "image": "https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=1",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2443,14 +2441,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=1",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=1"
         }
       ]
     },
     {
       "name": "Channel i",
       "image": "https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=6",
       "category": "news",
       "hot": "",
       "country": "bd",
@@ -2471,14 +2473,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=6",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=6"
         }
       ]
     },
     {
       "name": "ATN News",
       "image": "https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=14",
       "category": "news",
       "hot": "",
       "country": "bd",
@@ -2499,14 +2505,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=14",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=14"
         }
       ]
     },
     {
       "name": "ATN Bangla",
       "image": "https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=9",
       "category": "news",
       "hot": "",
       "country": "bd",
@@ -2527,6 +2537,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=9",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=9"
         }
       ]
     },
