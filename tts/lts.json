@@ -3085,7 +3085,7 @@
     {
       "name": "Zee Bangla Cinema",
       "image": "https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",
-     "category": "movie",
+      "category": "movie",
       "hot": "",
       "country": "india",
       "language": "",
@@ -3117,8 +3117,6 @@
     {
       "name": "Zee 24",
       "image": "https://i.ibb.co/Lg95pyc/z24-ghonta.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fvg-zeeftalive.akamaized.net%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fzeefta_https%2Fv1%2F0188823505fd1ea540e602a8c710%2F0188823555fe1ea5578a028f9e0a%2Fmain.m3u8&amp;id=6256&amp;type=mp4",
       "category": "news",
       "hot": "",
       "country": "india",
@@ -3137,12 +3135,6 @@
     {
       "name": "Colors Bangla",
       "image": "https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://mhdtv.co.in/jio/play.php?id=1369&amp;c=Colors_Bangla_SD",
-      "host2": "https://tv.durbinlive.com/",
-      "server2": "https://tv.durbinlive.com/api/play2.php?c=105",
-      "host3": "https://mhdtvplay.net/",
-      "server3": "https://myzee5.xyz/toffee/play.php?c=colors_b",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -3195,8 +3187,6 @@
     {
       "name": "আকাশ ৮",
       "image": "https://i.ibb.co/SxCbgy6/akash-aat.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=135",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -3209,16 +3199,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=135",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=135"
         }
       ]
     },
     {
       "name": "TV 9",
       "image": "https://i.ibb.co/FHS97dR/ev9-bangla.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://mhdtv.co.in/jio/play.php?id=1735",
-      "host2": "https://watchmhdtv.com",
-      "server2": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fvg-tv9yupp.akamaized.net%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-563504%2Fmain.m3u8&amp;id=6262&amp;type=mp4",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -3231,16 +3223,18 @@
           "source": "",
           "referer": "",
           "video": "https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-563504/main.m3u8"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=1735"
         }
       ]
     },
     {
       "name": "S BANGLA",
       "image": "https://i.ibb.co/whJVQN4/sangit-bangal.png",
-      "host1": "https://watchmhdtv.com",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=38",
-      "host2": "https://watchmhdtv.com",
-      "server2": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Frestv4-as.ott.kaltura.com%2Fapi_v3%2Fservice%2FassetFile%2Faction%2FplayManifest%2FpartnerId%2F487%2FassetId%2F676844%2FassetType%2Fmedia%2FassetFileId%2F15920444%2FcontextType%2FPLAYBACK%2FisAltUrl%2FFalse%2Fa.m3u8&amp;id=6437&amp;type=mp4",
       "category": "music",
       "hot": "",
       "country": "india",
@@ -3261,14 +3255,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=38",
           "referer": "https://watchmhdtv.com",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=38"
         }
       ]
     },
     {
       "name": "ABP আনন্দ",
       "image": "https://i.ibb.co/GQPdTYG/abp-ananda.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fabp-i.akamaihd.net%2Fhls%2Flive%2F765530%2Fabpananda%2Fmaster.m3u8&amp;id=10530&amp;type=mp4",
       "category": "entertainment",
       "hot": "",
       "country": "india",
