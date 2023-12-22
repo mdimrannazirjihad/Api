@@ -1075,12 +1075,6 @@
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009277"
         },
         {
-          "name": "Web Hd 2",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://mhdtvpro.com/ayna/player2.php?c=Ten2HD"
-        },
-        {
           "name": "Web SD 3",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -1111,13 +1105,7 @@
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009278"
         },
         {
-          "name": "Web HD 2",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://mhdtvpro.com/ayna/player2.php?c=Ten3HD"
-        },
-        {
-          "name": "Web 3",
+          "name": "Web 2",
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009283"
@@ -1151,12 +1139,6 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtvpro.com/ayna/play.php?c=82"
-        },
-        {
-          "name": "Web HD 2",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://mhdtvpro.com/ayna/player.php?c=SonySixHD"
         }
       ]
     },
