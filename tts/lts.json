@@ -1055,12 +1055,6 @@
     {
       "name": "SONY TEN 2",
       "image": "https://i.ibb.co/z2rp17b/ten2hd-185x278.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009277",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://mhdtvpro.com/ayna/player2.php?c=Ten2HD",
-      "host3": "https://mhdtvplay.net/",
-      "server3": "https://mhdtvpro.com/ayna/player2.php?c=SonyTen2",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -1073,20 +1067,30 @@
           "source": "https://mhdtvpro.com/ayna/player2.php?c=Ten2HD",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009277"
+        },
+        {
+          "name": "Web Hd 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtvpro.com/ayna/player2.php?c=Ten2HD"
+        },
+        {
+          "name": "Web SD 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtvpro.com/ayna/player2.php?c=SonyTen2"
         }
-        
-        
       ]
     },
     {
       "name": "SONY TEN 3",
       "image": "https://i.ibb.co/Wc8Hm0Q/ten3hd-185x278.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009278",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://mhdtvpro.com/ayna/player2.php?c=Ten3HD",
-      "host3": "https://mhdtvplay.net/",
-      "server3": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009283",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -1099,18 +1103,30 @@
           "source": "https://mhdtvpro.com/ayna/player2.php?c=Ten3HD",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009278"
+        },
+        {
+          "name": "Web HD 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtvpro.com/ayna/player2.php?c=Ten3HD"
+        },
+        {
+          "name": "Web 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009283"
         }
       ]
     },
     {
       "name": "SONY TEN 5",
       "image": "https://i.ibb.co/MGymrFS/sony5hd-185x278.jpg",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009275",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://mhdtvpro.com/ayna/player.php?c=SonySixHD",
-      "host3": "https://mhdtvplay.net/",
-      "server3": "https://mhdtvpro.com/ayna/play.php?c=82",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -1123,6 +1139,24 @@
           "source": "https://mhdtvpro.com/ayna/player.php?c=SonySixHD",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009275"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtvpro.com/ayna/play.php?c=82"
+        },
+        {
+          "name": "Web HD 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtvpro.com/ayna/player.php?c=SonySixHD"
         }
       ]
     },
