@@ -3321,8 +3321,6 @@
     {
       "name": "Nexus TV",
       "image": "https://images.toffeelive.com/images/program/10908/logo/240x240/mobile_logo_027712001655892101.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=32",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -3343,14 +3341,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=32",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=32"
         }
       ]
     },
     {
       "name": "SATV HD",
       "image": "https://images.toffeelive.com/images/program/232/logo/240x240/mobile_logo_731969001673183522.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=25",
       "category": "entertainment",
       "hot": "",
       "country": "",
@@ -3371,14 +3373,19 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=25",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=25"
         }
       ]
     },
     {
       "name": "Gaan Bangla",
       "image": "https://i.ibb.co/rxX1mNd/gann-bangla.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=22",
+
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -3391,14 +3398,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=22",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=22"
         }
       ]
     },
     {
       "name": "Ananda TV",
       "image": "https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=33",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -3419,14 +3430,19 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=33",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=33"
         }
       ]
     },
     {
       "name": "Global TV HD",
       "image": "https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=34",
+
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -3447,6 +3463,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=34",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=34"
         }
       ]
     },
@@ -3471,8 +3493,7 @@
     {
       "name": "Iqra",
       "image": "https://i.ibb.co/8scCQ2Q/iqra-tv.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=37",
+
       "category": "Religion",
       "hot": "",
       "country": "bd",
@@ -3485,14 +3506,19 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=37",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=37"
         }
       ]
     },
     {
       "name": "দুরন্ত",
       "image": "https://i.ibb.co/SwXzLm1/duronto-tv.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=36",
+
       "category": "kids",
       "hot": "",
       "country": "bd",
@@ -3505,14 +3531,19 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=36",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=36"
         }
       ]
     },
     {
       "name": "Green",
       "image": "https://i.ibb.co/0FcQ1VS/green-tv.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=35",
+
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -3525,55 +3556,79 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=35",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=35"
         }
       ]
     },
     {
       "name": "Sky Sports News",
       "image": "https://i.ibb.co/tsSRZnJ/sky-sports-news.jpg",
-      "host1": "https://crichd.vip/cha10-manchester-city-live-stream",
-      "server1": "http://stream.crichd.vip/update/skysn.php",
       "category": "",
       "hot": "",
       "country": "us",
       "language": "",
       "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
+          "server": "http://stream.crichd.vip/update/skysn.php"
+        }
       ]
     },
     {
       "name": "Sky Sports Action",
       "image": "https://i.ibb.co/C7TTHmh/sky-sports-action.png",
-      "host1": "https://crichd.vip/cha10-manchester-city-live-stream",
-      "server1": "http://stream.crichd.vip/update/skys3.php",
+
       "category": "",
       "hot": "",
       "country": "us",
       "language": "",
       "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
+          "server": "http://stream.crichd.vip/update/skys3.php"
+        }
       ]
     },
     {
       "name": "Makkah TV",
       "image": "https://i.ibb.co/z7qgmXW/makhhha-tv.pngthe_Great_Mosque_of_Mecca%2C_Saudi_Arabia_%281%29.jpg",
-      "host1": "https://www.youtube.com/",
-      "server1": "https://www.youtube.com/embed/PEmRPDJ9I8M?si=AuXce8f3Sx3Dm-zV",
+
       "category": "religion",
       "hot": "",
       "country": "ar",
       "language": "",
       "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://www.youtube.com/",
+          "server": "https://www.youtube.com/embed/PEmRPDJ9I8M?si=AuXce8f3Sx3Dm-zV"
+        }
       ]
     },
     {
       "name": "Madina",
       "image": "https://i.ibb.co/hH2WTq3/madina-tv.png_NEBEVI_-_panoramio.jpg",
-      "host1": "https://www.youtube.com/",
-      "server1": "https://www.youtube.com/embed/EB0Y1ztWnic?si=TZQ-jbNBqBPaYOJz",
       "category": "religion",
       "hot": "",
       "country": "ar",
       "language": "",
       "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://www.youtube.com/",
+          "server": "https://www.youtube.com/embed/EB0Y1ztWnic?si=TZQ-jbNBqBPaYOJz"
+        }
       ]
     },
     {
