@@ -2549,10 +2549,6 @@
     {
       "name": "News 18",
       "image": "https://i.ibb.co/fGDYySP/news18bangla.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fprod-ent-live-gm.jiocinema.com%2Fbpk-tv%2FNews18_Bangla_voot_MOB%2FFallback%2Findex.m3u8&amp;id=6258&amp;type=mp4",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://livevoot.co.in/jiovoot/play.php?c=News18_Bangla",
       "category": "news",
       "hot": "",
       "country": "india",
@@ -2565,6 +2561,12 @@
           "source": "",
           "referer": "",
           "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/index.m3u8"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://livevoot.co.in/jiovoot/play.php?c=News18_Bangla"
         }
       ]
     },
