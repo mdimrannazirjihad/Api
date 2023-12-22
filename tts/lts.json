@@ -349,13 +349,17 @@
     {
       "name": "SKY MainEvant",
       "image": "https://i.ibb.co/7NbYYH9/sky-sports-main-evant.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://faketv.co.in/criclife/skymain.php",
       "category": "Sports",
       "hot": "",
       "country": "us",
       "language": "",
       "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://faketv.co.in/criclife/skymain.php"
+        }
       ]
     },
     {
