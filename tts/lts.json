@@ -1534,28 +1534,6 @@
       "country": "india",
       "language": "",
       "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8"
-        },
-        {
-          "name": "Ayna 1",
-          "type": "V",
-          "cookie": "",
-          "source": "https://entezeetv.fun/ayna/play.php?id=74",
-          "referer": "https://mhdtvplay.net/",
-          "video": ""
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://entezeetv.fun/ayna/play.php?id=74"
-        }
       ]
     },
     {
@@ -1567,7 +1545,7 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
           "source": "",
@@ -1575,7 +1553,15 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix/playlist.m3u8"
         },
         {
-          "name": "Ayna 1",
+          "name": "BD Only HD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8"
+        },
+        {
+          "name": "Ayna 1 SD",
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=89",
@@ -1583,10 +1569,24 @@
           "video": ""
         },
         {
-          "name": "Web 1",
+          "name": "Ayna 2 HD",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=74",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1 SD",
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=89"
+        },
+        {
+          "name": "Web 2 HD",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=74"
         }
       ]
     },
