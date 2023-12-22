@@ -1295,40 +1295,63 @@
     },
     {
       "name": "SONY ENTERTAINMENT TELEVISION HD",
-      "image": "https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png",
-      "category": "toffee",
+      "image": "https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",
+      "category": "entertainment",
       "hot": "",
-      "country": "",
+      "country": "india",
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only HD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainmnt_hd/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "SONY ENTERTAINMENT TELEVISION",
-      "image": "https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
+        },
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8"
+        },
+        {
+          "name": "Ayna 1 HD",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=73",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Ayna 2 SD",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=81",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1 SD",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=73"
+        },
+        {
+          "name": "Web 1 HD",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=81"
         }
+
       ]
     },
+
+
+
+
     {
       "name": "SONY SAB HD",
       "image": "https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png",
