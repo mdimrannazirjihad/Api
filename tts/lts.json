@@ -105,7 +105,7 @@
     {
       "name": "T SPORTS",
       "image": "https://i.ibb.co/c8GdZqn/t-sports.png",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://entezeetv.fun/ayna/play.php?id=27",
       "category": "Sports",
       "hot": "yes",
@@ -117,7 +117,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=27",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         },
         {
@@ -125,13 +125,13 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=28",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         },
         {
           "name": "MY WEB TV",
           "type": "W",
-          "host": "https://watchmhdtv.com/",
+          "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=28"
         }
       ]
@@ -139,7 +139,7 @@
     {
       "name": "GTV",
       "image": "https://i.ibb.co/q95SCks/gtv.png",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://entezeetv.fun/ayna/play.php?id=18",
       "category": "Sports",
       "hot": "true",
@@ -151,7 +151,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=19",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         },
         {
@@ -159,7 +159,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=18",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         },
         {
@@ -293,7 +293,7 @@
     {
       "name": "Star select 1",
       "image": "https://i.ibb.co/MB3hjfK/star-select1.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=48",
       "category": "Sports",
       "hot": "true",
@@ -305,7 +305,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=48",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -313,7 +313,7 @@
     {
       "name": "Star select 2",
       "image": "https://i.ibb.co/KFZWvXC/star-select2.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=49",
       "category": "Sports",
       "hot": "true",
@@ -325,7 +325,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=49",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -407,11 +407,11 @@
     {
       "name": "Sky Sports",
       "image": "https://i.ibb.co/qFpTvMP/sky-sports-cricked.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://faketv.co.in/criclife/skycricket.php",
       "host2": "https://tv.durbinlive.com/",
       "server2": "https://tv.durbinlive.com/api/ipl4.php",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://faketv.co.in/criclife/skycricket.php",
       "category": "Sports",
       "hot": "true",
@@ -435,7 +435,7 @@
     {
       "name": "WILLOW EXTRA",
       "image": "https://i.ibb.co/92pYrJ8/willwo-xtra.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://faketv.co.in/criclife/willowhd.php",
       "category": "Sports",
       "hot": "true",
@@ -455,7 +455,7 @@
     {
       "name": "SKY MainEvant",
       "image": "https://i.ibb.co/7NbYYH9/sky-sports-main-evant.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://faketv.co.in/criclife/skymain.php",
       "category": "Sports",
       "hot": "",
@@ -467,7 +467,7 @@
     {
       "name": "SkySports Golf",
       "image": "https://i.ibb.co/KGnSGY0/sky-sports-goulf.jpg",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://faketv.co.in/criclife/skygolf.php",
       "category": "Sports",
       "hot": "",
@@ -479,7 +479,7 @@
     {
       "name": "Sky Sports Primiar",
       "image": "https://i.ibb.co/qkmdFvr/sky-sports-primiar-luge.jpg",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://faketv.co.in/criclife/skyepl.php",
       "category": "Sports",
       "hot": "",
@@ -491,7 +491,7 @@
     {
       "name": "Sky Sports Foodball",
       "image": "https://i.ibb.co/wg5M340/sky-sports-foodball.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://faketv.co.in/criclife/skyfootball.php",
       "category": "Sports",
       "hot": "",
@@ -515,7 +515,7 @@
     {
       "name": "Sky sports Mix",
       "image": "https://i.ibb.co/wg5M340/sky-sports-foodball.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://faketv.co.in/criclife/skymix.php",
       "category": "Sports",
       "hot": "",
@@ -549,7 +549,7 @@
     {
       "name": "PTV SPORTS",
       "image": "https://i.ibb.co/MGLcF7L/PTV-Sports.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=47",
       "host2": "https://tv.durbinlive.com/",
       "server2": "https://tv.durbinlive.com/api/play4.php?c=Ptvsports",
@@ -563,7 +563,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=47",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -571,7 +571,7 @@
     {
       "name": "Jio Foodball",
       "image": "https://i.ibb.co/FmgPHvT/jiofoodball.webp",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1239&amp;c=Jio_Football_Bangali_HD",
       "category": "Sports",
       "hot": "",
@@ -1133,11 +1133,11 @@
     {
       "name": "SONY TEN 1",
       "image": "https://i.ibb.co/cY8880Q/ten1hd-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtvpro.com/ayna/player.php?c=Ten1HD",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009280",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009280",
       "category": "entertainment",
       "hot": "",
@@ -1149,7 +1149,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player.php?c=Ten1HD",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1157,11 +1157,11 @@
     {
       "name": "SONY TEN 2",
       "image": "https://i.ibb.co/z2rp17b/ten2hd-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009277",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://mhdtvpro.com/ayna/player2.php?c=Ten2HD",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://mhdtvpro.com/ayna/player2.php?c=SonyTen2",
       "category": "entertainment",
       "hot": "",
@@ -1173,7 +1173,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player2.php?c=Ten2HD",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1181,11 +1181,11 @@
     {
       "name": "SONY TEN 3",
       "image": "https://i.ibb.co/Wc8Hm0Q/ten3hd-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009278",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://mhdtvpro.com/ayna/player2.php?c=Ten3HD",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009283",
       "category": "entertainment",
       "hot": "",
@@ -1197,7 +1197,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player2.php?c=Ten3HD",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1205,11 +1205,11 @@
     {
       "name": "SONY TEN 5",
       "image": "https://i.ibb.co/MGymrFS/sony5hd-185x278.jpg",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009275",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://mhdtvpro.com/ayna/player.php?c=SonySixHD",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://mhdtvpro.com/ayna/play.php?c=82",
       "category": "entertainment",
       "hot": "",
@@ -1221,7 +1221,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player.php?c=SonySixHD",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1481,11 +1481,11 @@
     {
       "name": "SONY MAX",
       "image": "https://i.ibb.co/HHd02GS/maxhd-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009247",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://mhdtvpro.com/ayna/player2.php?c=SetMax",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009249",
       "category": "entertainment",
       "hot": "",
@@ -1497,7 +1497,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player2.php?c=MaxHD",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1505,11 +1505,11 @@
     {
       "name": "SONY MAX2",
       "image": "https://i.ibb.co/4NjjynB/max2-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000044878",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://mhdtvpro.com/ayna/player2.php?c=SonyMax2",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2",
       "category": "entertainment",
       "hot": "",
@@ -1577,11 +1577,11 @@
     {
       "name": "Sony AATH",
       "image": "https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=697&c=Sony_aath",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://entezeetv.fun/ayna/play.php?id=86",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://mhdtv.co.in/jio/play.php?id=697&amp;c=Sony_aath",
       "category": "Enterteinment",
       "hot": "yes",
@@ -1601,7 +1601,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=86",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1609,7 +1609,7 @@
     {
       "name": "SONY YAY",
       "image": "https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=70",
       "category": "kids",
       "hot": "",
@@ -1629,7 +1629,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=70",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1637,7 +1637,7 @@
     {
       "name": "SONY KAL",
       "image": "https://i.ibb.co/gRvD8Pb/kal-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fspt-sonykal-1-us.lg.wurl.tv%2Fplaylist.m3u8&id=11586&type=mp4",
       "category": "entertainment",
       "hot": "",
@@ -1657,11 +1657,11 @@
     {
       "name": "SONY TV",
       "image": "https://i.ibb.co/rZ4xmsN/sonyhd-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtvpro.com/ayna/player.php?c=SonyHD",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009246",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://mhdtvpro.com/ayna/player2.php?c=SonySD",
       "category": "entertainment",
       "hot": "",
@@ -1673,7 +1673,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player2.php?c=SonySD",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1681,11 +1681,11 @@
     {
       "name": "SONY SAB",
       "image": "https://i.ibb.co/dW7Vjx4/sabd-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009248",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://mhdtvpro.com/ayna/player2.php?c=SabHD",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://mhdtv.co.in/jio/play.php?id=471&c=Sony_SAB_HD",
       "category": "entertainment",
       "hot": "",
@@ -1697,7 +1697,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player2.php?c=SabHD",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1705,11 +1705,11 @@
     {
       "name": "SONY WAH",
       "image": "https://i.ibb.co/mbLtY1h/wah-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009253",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://mhdtvpro.com/ayna/player2.php?c=SonyWah",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://mhdtv.co.in/jio/play.php?id=1393&c=Sony_Wah",
       "category": "entertainment",
       "hot": "",
@@ -1721,7 +1721,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player2.php?c=SonyWah",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1729,9 +1729,9 @@
     {
       "name": "SONY PAL",
       "image": "https://i.ibb.co/pw1dZB9/pal-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009273",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://mhdtvpro.com/ayna/player2.php?c=SonyPal",
       "category": "entertainment",
       "hot": "",
@@ -1743,7 +1743,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player2.php?c=SonyPal",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -1751,9 +1751,9 @@
     {
       "name": "SONY CRACKLE",
       "image": "https://i.ibb.co/Tq8F81d/crackle-185x278.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fcrackle-plex.amagi.tv%2Fplaylist720p.m3u8&id=12576&type=mp4",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fcrackle-plex.amagi.tv%2Fplaylist480p.m3u8&id=12576&type=mp4",
       "category": "entertainment",
       "hot": "",
@@ -1791,7 +1791,7 @@
     {
       "name": "SONY BBC EARTH",
       "image": "https://images.toffeelive.com/images/program/396/logo/240x240/mobile_logo_708825001655891324.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=823&c=Sony_BBC_Earth_SD",
       "category": "entertainment",
       "hot": "",
@@ -1811,9 +1811,9 @@
     {
       "name": "KHUSHBOO Bangla",
       "image": "https://i.ibb.co/0ZFHHJh/khoosbo-bangla.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1282&amp;c=Khusboo_TV",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fyuppftalive.akamaized.net%2F080823%2Fkhushboobangla%2Fplaylist.m3u8&amp;id=7367&amp;type=mp4",
       "category": "kids",
       "hot": "",
@@ -1833,7 +1833,7 @@
     {
       "name": "Sonic Bangla",
       "image": "https://i.ibb.co/6wDkhyn/sonic-bagla.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1345&amp;c=Sonic_Bangla",
       "category": "kids",
       "hot": "",
@@ -1863,7 +1863,7 @@
     {
       "name": "Rongeen",
       "image": "https://i.ibb.co/nRSRJrg/rongeen-tv.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1667&amp;c=Rongeen_TV",
       "category": "kids",
       "hot": "",
@@ -1991,7 +1991,7 @@
     {
       "name": "Discovery",
       "image": "https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://watchmhdtv.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Bangla.m3u8&amp;id=12039&amp;type=mp4",
       "category": "doc",
       "hot": "",
@@ -2179,7 +2179,7 @@
     {
       "name": "আমার সিনেমা",
       "image": "https://i.ibb.co/Pw0MV7k/amaarcinema.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1962&amp;c=Amaar_Bangla",
       "category": "movie",
       "hot": "",
@@ -2199,9 +2199,9 @@
     {
       "name": "Sun বাংলা",
       "image": "https://i.ibb.co/FbQTXNT/Sun-Bangla.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1669&amp;c=Sun_Bangla",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://sunnxtv.co.in/sun/play.php?c=75117",
       "category": "entertainment",
       "hot": "",
@@ -2239,9 +2239,9 @@
     {
       "name": "Jalsha Movies VIP",
       "image": "https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://myzee5.xyz/toffee/play.php?c=jalsha_movies",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://mhdtvpro.com/bigtv/play.php?watch=fabd4bb2c7cad6790ca86bc9ea9d7ae4a61c0b97c3b65ae0872d37fec8dd4768",
       "category": "movie",
       "hot": "",
@@ -2269,9 +2269,9 @@
     {
       "name": "Colors Bangla Cinema",
       "image": "https://images.toffeelive.com/images/program/10157/logo/240x240/mobile_logo_151189001655892087.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1657&amp;c=Colors_Bangla_Cinema",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://myzee5.xyz/toffee/play.php?c=colors_bangla_cinema",
       "category": "movie",
       "hot": "",
@@ -2291,7 +2291,7 @@
     {
       "name": "Somoy TV",
       "image": "https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=17",
       "category": "news",
       "hot": "",
@@ -2311,7 +2311,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=17",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2319,7 +2319,7 @@
     {
       "name": "Channel 24",
       "image": "https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=21",
       "category": "news",
       "hot": "",
@@ -2339,7 +2339,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=21",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2347,7 +2347,7 @@
     {
       "name": "Jamuna TV",
       "image": "https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=26",
       "category": "news",
       "hot": "",
@@ -2367,7 +2367,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=26",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2375,7 +2375,7 @@
     {
       "name": "Ekattor TV",
       "image": "https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=23",
       "category": "news",
       "hot": "",
@@ -2395,7 +2395,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=23",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2403,7 +2403,7 @@
     {
       "name": "Banglavision",
       "image": "https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=5",
       "category": "entertainment",
       "hot": "",
@@ -2423,7 +2423,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=5",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2431,7 +2431,7 @@
     {
       "name": "BTV HD",
       "image": "https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=1",
       "category": "entertainment",
       "hot": "",
@@ -2451,7 +2451,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=1",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2459,7 +2459,7 @@
     {
       "name": "Channel i",
       "image": "https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=6",
       "category": "news",
       "hot": "",
@@ -2479,7 +2479,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=6",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2487,7 +2487,7 @@
     {
       "name": "ATN News",
       "image": "https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=14",
       "category": "news",
       "hot": "",
@@ -2507,7 +2507,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=14",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2515,7 +2515,7 @@
     {
       "name": "ATN Bangla",
       "image": "https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=9",
       "category": "news",
       "hot": "",
@@ -2535,7 +2535,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=9",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2543,9 +2543,9 @@
     {
       "name": "News 18",
       "image": "https://i.ibb.co/fGDYySP/news18bangla.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fprod-ent-live-gm.jiocinema.com%2Fbpk-tv%2FNews18_Bangla_voot_MOB%2FFallback%2Findex.m3u8&amp;id=6258&amp;type=mp4",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://livevoot.co.in/jiovoot/play.php?c=News18_Bangla",
       "category": "news",
       "hot": "",
@@ -2565,7 +2565,7 @@
     {
       "name": "NEWS24",
       "image": "https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=30",
       "category": "news",
       "hot": "",
@@ -2585,7 +2585,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=30",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2593,7 +2593,7 @@
     {
       "name": "Ekushey TV",
       "image": "https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=7",
       "category": "entertainment",
       "hot": "",
@@ -2613,7 +2613,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=7",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2621,7 +2621,7 @@
     {
       "name": "Desh TV",
       "image": "https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=12",
       "category": "entertainment",
       "hot": "",
@@ -2641,7 +2641,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=12",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2649,7 +2649,7 @@
     {
       "name": "Boishakhi TV",
       "image": "https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=10",
       "category": "entertainment",
       "hot": "",
@@ -2669,7 +2669,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=10",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2677,7 +2677,7 @@
     {
       "name": "DBC News",
       "image": "https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=29",
       "category": "news",
       "hot": "",
@@ -2697,7 +2697,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=29",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2705,7 +2705,7 @@
     {
       "name": "এখন",
       "image": "https://i.ibb.co/6ycqsR5/ekhon-185x278.webp",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=40",
       "category": "entertainment",
       "hot": "",
@@ -2717,7 +2717,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=40",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2725,7 +2725,7 @@
     {
       "name": "Bangla TV",
       "image": "https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=31",
       "category": "entertainment",
       "hot": "",
@@ -2745,7 +2745,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=31",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2753,7 +2753,7 @@
     {
       "name": "Bijoy TV",
       "image": "https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=16",
       "category": "entertainment",
       "hot": "",
@@ -2773,7 +2773,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=16",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2781,7 +2781,7 @@
     {
       "name": "BTV Chattogram",
       "image": "https://images.toffeelive.com/images/program/418/logo/240x240/mobile_logo_799556001673182578.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=4",
       "category": "entertainment",
       "hot": "",
@@ -2801,7 +2801,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=4",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2809,7 +2809,7 @@
     {
       "name": "BTV World",
       "image": "https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=2",
       "category": "entertainment",
       "hot": "",
@@ -2829,7 +2829,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=2",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2837,7 +2837,7 @@
     {
       "name": "MY TV",
       "image": "https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=13",
       "category": "entertainment",
       "hot": "",
@@ -2857,7 +2857,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=13",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2865,7 +2865,7 @@
     {
       "name": "Channel 9",
       "image": "https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=20",
       "category": "entertainment",
       "hot": "",
@@ -2885,7 +2885,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=20",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2893,7 +2893,7 @@
     {
       "name": "NTV",
       "image": "https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=8",
       "category": "entertainment",
       "hot": "",
@@ -2913,7 +2913,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=8",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2921,7 +2921,7 @@
     {
       "name": "Mohona TV",
       "image": "https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=15",
       "category": "entertainment",
       "hot": "",
@@ -2941,7 +2941,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=15",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2949,7 +2949,7 @@
     {
       "name": "Maasranga TV",
       "image": "https://i.ibb.co/nCrdzp1/masranga.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=11",
       "category": "entertainment",
       "hot": "",
@@ -2961,7 +2961,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=11",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2969,7 +2969,7 @@
     {
       "name": "Sangsad TV",
       "image": "https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=3",
       "category": "news",
       "hot": "",
@@ -2989,7 +2989,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=3",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -2997,7 +2997,7 @@
     {
       "name": "রূপসী বাংলা",
       "image": "https://i.ibb.co/mbxnYs1/rupashi.webp",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Flivetv-channels.b-cdn.net%2F8079%2Fchunklist0.m3u8&amp;id=13206&amp;type=mp4",
       "category": "",
       "hot": "",
@@ -3009,9 +3009,9 @@
     {
       "name": "Zee Bangla Cinema",
       "image": "https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=685&amp;c=Zee_Bangla_Cinema",
-      "host2": "https://watchmhdtv.com/",
+      "host2": "https://mhdtvplay.net/",
       "server2": "https://myzee5.xyz/toffee/plahttps://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fd75dqofg5kmfk.cloudfront.net%2Fbpk-tv%2FZeebanglacinema%2Fdefault%2Findex.m3u8&amp;id=6266&amp;type=mp4y.php?c=zee_bangla_cinema",
       "category": "movie",
       "hot": "",
@@ -3039,7 +3039,7 @@
     {
       "name": "Zee 24",
       "image": "https://i.ibb.co/Lg95pyc/z24-ghonta.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fvg-zeeftalive.akamaized.net%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fzeefta_https%2Fv1%2F0188823505fd1ea540e602a8c710%2F0188823555fe1ea5578a028f9e0a%2Fmain.m3u8&amp;id=6256&amp;type=mp4",
       "category": "news",
       "hot": "",
@@ -3059,11 +3059,11 @@
     {
       "name": "Colors Bangla",
       "image": "https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1369&amp;c=Colors_Bangla_SD",
       "host2": "https://tv.durbinlive.com/",
       "server2": "https://tv.durbinlive.com/api/play2.php?c=105",
-      "host3": "https://watchmhdtv.com/",
+      "host3": "https://mhdtvplay.net/",
       "server3": "https://myzee5.xyz/toffee/play.php?c=colors_b",
       "category": "entertainment",
       "hot": "",
@@ -3117,7 +3117,7 @@
     {
       "name": "আকাশ ৮",
       "image": "https://i.ibb.co/SxCbgy6/akash-aat.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=135",
       "category": "entertainment",
       "hot": "",
@@ -3129,7 +3129,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=135",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -3137,7 +3137,7 @@
     {
       "name": "TV 9",
       "image": "https://i.ibb.co/FHS97dR/ev9-bangla.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://mhdtv.co.in/jio/play.php?id=1735",
       "host2": "https://watchmhdtv.com",
       "server2": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fvg-tv9yupp.akamaized.net%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-563504%2Fmain.m3u8&amp;id=6262&amp;type=mp4",
@@ -3189,7 +3189,7 @@
     {
       "name": "ABP আনন্দ",
       "image": "https://i.ibb.co/GQPdTYG/abp-ananda.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fabp-i.akamaihd.net%2Fhls%2Flive%2F765530%2Fabpananda%2Fmaster.m3u8&amp;id=10530&amp;type=mp4",
       "category": "entertainment",
       "hot": "",
@@ -3209,7 +3209,7 @@
     {
       "name": "আমার বাংলা",
       "image": "https://i.ibb.co/SJgPYZL/amar-bangla.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fstream1.livebox.co.in%2Fkbcreationhls%2Flive.m3u8&amp;id=8366&amp;type=mp4",
       "category": "entertainment",
       "hot": "",
@@ -3247,7 +3247,7 @@
     {
       "name": "Nexus TV",
       "image": "https://images.toffeelive.com/images/program/10908/logo/240x240/mobile_logo_027712001655892101.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=32",
       "category": "entertainment",
       "hot": "",
@@ -3267,7 +3267,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=32",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -3275,7 +3275,7 @@
     {
       "name": "SATV HD",
       "image": "https://images.toffeelive.com/images/program/232/logo/240x240/mobile_logo_731969001673183522.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=25",
       "category": "entertainment",
       "hot": "",
@@ -3295,7 +3295,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=25",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -3303,7 +3303,7 @@
     {
       "name": "Gaan Bangla",
       "image": "https://i.ibb.co/rxX1mNd/gann-bangla.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=22",
       "category": "entertainment",
       "hot": "",
@@ -3315,7 +3315,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=22",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -3323,7 +3323,7 @@
     {
       "name": "Ananda TV",
       "image": "https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=33",
       "category": "entertainment",
       "hot": "",
@@ -3343,7 +3343,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=33",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -3351,7 +3351,7 @@
     {
       "name": "Global TV HD",
       "image": "https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=34",
       "category": "entertainment",
       "hot": "",
@@ -3371,7 +3371,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=34",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -3397,7 +3397,7 @@
     {
       "name": "Iqra",
       "image": "https://i.ibb.co/8scCQ2Q/iqra-tv.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=37",
       "category": "Religion",
       "hot": "",
@@ -3409,7 +3409,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=37",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -3417,7 +3417,7 @@
     {
       "name": "দুরন্ত",
       "image": "https://i.ibb.co/SwXzLm1/duronto-tv.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=36",
       "category": "kids",
       "hot": "",
@@ -3429,7 +3429,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=36",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -3437,7 +3437,7 @@
     {
       "name": "Green",
       "image": "https://i.ibb.co/0FcQ1VS/green-tv.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=35",
       "category": "entertainment",
       "hot": "",
@@ -3449,7 +3449,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=35",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -3523,7 +3523,7 @@
     {
       "name": "Dhoom Music",
       "image": "https://i.ibb.co/tmYbj8g/dhoom-music.png",
-      "host1": "https://watchmhdtv.com/",
+      "host1": "https://mhdtvplay.net/",
       "server1": "https://entezeetv.fun/ayna/play.php?id=136",
       "category": "music",
       "hot": "",
@@ -3535,7 +3535,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=136",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -5075,7 +5075,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player2.php?c=GoldminesMovies",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -5093,7 +5093,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://mhdtvpro.com/ayna/player2.php?c=GoldminesBollywood",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -5535,7 +5535,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://watchmhdtv.com/delta/shemaroo/play.php?c=shemarooumang/smil:shemarooumangadp.smil",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
@@ -5553,7 +5553,7 @@
           "type": "V",
           "cookie": "",
           "source": "https://watchmhdtv.com/delta/shemaroo/play.php?c=shemarootv/smil:shemarootvadp.smil",
-          "referer": "https://watchmhdtv.com/",
+          "referer": "https://mhdtvplay.net/",
           "video": ""
         }
       ]
