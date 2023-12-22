@@ -1188,41 +1188,85 @@
         }
       ]
     },
-
-
-    {
-      "name": "SONY MAX HD",
-      "image": "https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8"
-        }
-      ]
-    },
     {
       "name": "SONY MAX",
       "image": "https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png",
-      "category": "toffee",
+      "category": "entertainment",
       "hot": "",
-      "country": "",
+      "country": "india",
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8"
+        },
+        {
+          "name": "BD Only HD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://mhdtvpro.com/ayna/player2.php?c=MaxHD",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009247"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009249"
+        }
+      ]
+    },
+    {
+      "name": "SONY MAX 2",
+      "image": "https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "india",
+      "language": "",
+      "myList": [
+        {
+          "name": "BD Only",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000044878"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2"
+        },
+        {
+          "name": "Web 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2"
         }
       ]
     },
@@ -1299,24 +1343,6 @@
       ]
     },
     {
-      "name": "SONY MAX 2",
-      "image": "https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8"
-        }
-      ]
-    },
-    {
       "name": "SONY WAH",
       "image": "https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png",
       "category": "toffee",
@@ -1349,64 +1375,6 @@
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pal/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "SONY MAX",
-      "image": "https://i.ibb.co/HHd02GS/maxhd-185x278.png",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "Ayna 1",
-          "type": "V",
-          "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=MaxHD",
-          "referer": "https://mhdtvplay.net/",
-          "video": ""
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009247"
-        },
-        {
-          "name": "Web 2",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009249"
-        }
-      ]
-    },
-    {
-      "name": "SONY MAX2",
-      "image": "https://i.ibb.co/4NjjynB/max2-185x278.png",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000044878"
-        },
-        {
-          "name": "Web 2",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2"
-        },
-        {
-          "name": "Web 3",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2"
         }
       ]
     },
