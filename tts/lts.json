@@ -1213,10 +1213,18 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8"
         },
         {
-          "name": "Ayna 1",
+          "name": "Ayna 1 SD",
           "type": "V",
           "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=MaxHD",
+          "source": "https://entezeetv.fun/ayna/play.php?id=90",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Ayna 2 HD",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=71",
           "referer": "https://mhdtvplay.net/",
           "video": ""
         },
@@ -1231,6 +1239,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009249"
+        },
+        {
+          "name": "Web 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=90"
         }
       ]
     },
