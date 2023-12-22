@@ -1397,12 +1397,6 @@
     {
       "name": "SONY MAX",
       "image": "https://i.ibb.co/HHd02GS/maxhd-185x278.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009247",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://mhdtvpro.com/ayna/player2.php?c=SetMax",
-      "host3": "https://mhdtvplay.net/",
-      "server3": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009249",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -1415,6 +1409,18 @@
           "source": "https://mhdtvpro.com/ayna/player2.php?c=MaxHD",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009247"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009249"
         }
       ]
     },
