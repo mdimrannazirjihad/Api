@@ -1637,7 +1637,7 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only Hindi",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
           "source": "",
@@ -1645,7 +1645,7 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8"
         },
         {
-          "name": "Ayna 1",
+          "name": "Ayna 1 Bangla",
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=70",
@@ -1653,7 +1653,7 @@
           "video": ""
         },
         {
-          "name": "Web 1",
+          "name": "Web 1 Bangla",
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=70"
