@@ -1703,18 +1703,34 @@
       ]
     },
     {
-      "name": "Sonic Bangla",
+      "name": "Sonic",
       "image": "https://i.ibb.co/6wDkhyn/sonic-bagla.png",
       "category": "kids",
       "hot": "",
       "country": "india",
-      "language": "",
+      "language": "hi",
       "myList": [
         {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1345&amp;c=Sonic_Bangla"
+        },
+        {
+          "name": "BD Only Hindi",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonic/playlist.m3u8"
+        },
+        {
+          "name": "Fixed",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
         }
       ]
     },
@@ -4149,32 +4165,6 @@
           "source": "",
           "referer": "",
           "video": "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Sonic Hindi",
-      "image": "https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png",
-      "category": "kids",
-      "hot": "",
-      "country": "india",
-      "language": "hi",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonic/playlist.m3u8"
-        },
-        {
-          "name": "Fixed",
-          "type": "V",
-          "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
         }
       ]
     },
