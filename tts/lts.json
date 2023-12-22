@@ -1290,7 +1290,6 @@
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2"
         }
-
       ]
     },
     {
@@ -1345,29 +1344,6 @@
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=81"
         }
-
-      ]
-    },
-
-
-
-
-    {
-      "name": "SONY SAB HD",
-      "image": "https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab_hd/playlist.m3u8"
-        }
       ]
     },
     {
@@ -1379,12 +1355,148 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab/playlist.m3u8"
+        },
+        {
+          "name": "BD Only HD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab_hd/playlist.m3u8"
+        },
+        {
+          "name": "Ayna 1 SD",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=80",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Ayna 2 HD",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=77",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1 SD",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=80"
+        },
+        {
+          "name": "Web 2 HD",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=77"
+        }
+      ]
+    },
+
+
+    {
+      "name": "SONY WAH",
+      "image": "https://i.ibb.co/mbLtY1h/wah-185x278.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "india",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://mhdtvpro.com/ayna/player2.php?c=SonyWah",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009253"
+        }
+      ]
+    },
+    {
+      "name": "SONY PAL",
+      "image": "https://i.ibb.co/pw1dZB9/pal-185x278.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "india",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://mhdtvpro.com/ayna/player2.php?c=SonyPal",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009273"
+        }
+      ]
+    },
+    {
+      "name": "SONY CRACKLE",
+      "image": "https://i.ibb.co/Tq8F81d/crackle-185x278.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "india",
+      "language": "",
+      "myList": [
+        {
+          "name": "Fixed",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://crackle-plex.amagi.tv/playlist720p.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "SONY BBC EARTH",
+      "image": "https://images.toffeelive.com/images/program/396/logo/240x240/mobile_logo_708825001655891324.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "india",
+      "language": "",
+      "myList": [
+        {
+          "name": "BD Only",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth/playlist.m3u8"
+        },
+        {
+          "name": "BD Only HD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=823&c=Sony_BBC_Earth_SD"
         }
       ]
     },
@@ -1573,152 +1685,6 @@
           "source": "",
           "referer": "",
           "video": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "SONY TV",
-      "image": "https://i.ibb.co/rZ4xmsN/sonyhd-185x278.png",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "Ayna 1",
-          "type": "V",
-          "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=SonySD",
-          "referer": "https://mhdtvplay.net/",
-          "video": ""
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009246"
-        },
-        {
-          "name": "Web 2",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009246"
-        }
-      ]
-    },
-    {
-      "name": "SONY SAB",
-      "image": "https://i.ibb.co/dW7Vjx4/sabd-185x278.png",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "Ayna 1",
-          "type": "V",
-          "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=SabHD",
-          "referer": "https://mhdtvplay.net/",
-          "video": ""
-        }
-      ]
-    },
-    {
-      "name": "SONY WAH",
-      "image": "https://i.ibb.co/mbLtY1h/wah-185x278.png",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "Ayna 1",
-          "type": "V",
-          "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=SonyWah",
-          "referer": "https://mhdtvplay.net/",
-          "video": ""
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009253"
-        }
-      ]
-    },
-    {
-      "name": "SONY PAL",
-      "image": "https://i.ibb.co/pw1dZB9/pal-185x278.png",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "Ayna 1",
-          "type": "V",
-          "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=SonyPal",
-          "referer": "https://mhdtvplay.net/",
-          "video": ""
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009273"
-        }
-      ]
-    },
-    {
-      "name": "SONY CRACKLE",
-      "image": "https://i.ibb.co/Tq8F81d/crackle-185x278.png",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "Fixed",
-          "type": "V",
-          "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://crackle-plex.amagi.tv/playlist720p.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "SONY BBC EARTH",
-      "image": "https://images.toffeelive.com/images/program/396/logo/240x240/mobile_logo_708825001655891324.png",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth/playlist.m3u8"
-        },
-        {
-          "name": "BD Only HD",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8"
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://mhdtv.co.in/jio/play.php?id=823&c=Sony_BBC_Earth_SD"
         }
       ]
     },
