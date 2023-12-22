@@ -1023,13 +1023,21 @@
       ]
     },
     {
-      "name": "SONY TEN 1",
-      "image": "https://i.ibb.co/cY8880Q/ten1hd-185x278.png",
-      "category": "entertainment",
+      "name": "SONY SPORTS TEN 1",
+      "image": "https://images.toffeelive.com/images/program/49/logo/240x240/mobile_logo_559887001666781361.png",
+      "category": "toffee",
       "hot": "",
-      "country": "india",
+      "country": "",
       "language": "",
       "myList": [
+        {
+          "name": "BD Only",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_1/playlist.m3u8"
+        },
         {
           "name": "Ayna 1",
           "type": "V",
@@ -1053,13 +1061,21 @@
       ]
     },
     {
-      "name": "SONY TEN 2",
-      "image": "https://i.ibb.co/z2rp17b/ten2hd-185x278.png",
-      "category": "entertainment",
+      "name": "SONY SPORTS TEN 2",
+      "image": "https://images.toffeelive.com/images/program/50/logo/240x240/mobile_logo_832280001666781441.png",
+      "category": "toffee",
       "hot": "",
-      "country": "india",
+      "country": "",
       "language": "",
       "myList": [
+        {
+          "name": "BD Only",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_2/playlist.m3u8"
+        },
         {
           "name": "Ayna 1",
           "type": "V",
@@ -1075,40 +1091,10 @@
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009277"
         },
         {
-          "name": "Web SD 3",
+          "name": "Web SD 2",
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtvpro.com/ayna/player2.php?c=SonyTen2"
-        }
-      ]
-    },
-    {
-      "name": "SONY TEN 5",
-      "image": "https://i.ibb.co/MGymrFS/sony5hd-185x278.jpg",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "Ayna 1",
-          "type": "V",
-          "cookie": "",
-          "source": "https://entezeetv.fun/ayna/play.php?id=91",
-          "referer": "https://mhdtvplay.net/",
-          "video": ""
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009275"
-        },
-        {
-          "name": "Web 2",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://mhdtvpro.com/ayna/play.php?c=82"
         }
       ]
     },
@@ -1121,12 +1107,20 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only HD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten3_hd/playlist.m3u8"
+        },
+        {
+          "name": "BD Only SD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_3/playlist.m3u8"
         },
         {
           "name": "Ayna 1",
@@ -1157,65 +1151,11 @@
       ]
     },
     {
-      "name": "SONY SPORTS TEN 1",
-      "image": "https://images.toffeelive.com/images/program/49/logo/240x240/mobile_logo_559887001666781361.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "SONY SPORTS TEN 2",
-      "image": "https://images.toffeelive.com/images/program/50/logo/240x240/mobile_logo_832280001666781441.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_2/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "SONY SPORTS TEN 3",
-      "image": "https://images.toffeelive.com/images/program/51/logo/240x240/mobile_logo_066851001666781605.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_3/playlist.m3u8"
-        }
-      ]
-    },
-    {
       "name": "SONY SPORTS TEN 5",
       "image": "https://images.toffeelive.com/images/program/351/logo/240x240/mobile_logo_027801001666782321.png",
-      "category": "toffee",
+      "category": "entertainment",
       "hot": "",
-      "country": "",
+      "country": "india",
       "language": "",
       "myList": [
         {
@@ -1225,9 +1165,31 @@
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six/playlist.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=91",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009275"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtvpro.com/ayna/play.php?c=82"
         }
       ]
     },
+
+
     {
       "name": "SONY MAX HD",
       "image": "https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png",
