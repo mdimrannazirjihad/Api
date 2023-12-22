@@ -3652,8 +3652,7 @@
     {
       "name": "Dhoom Music",
       "image": "https://i.ibb.co/tmYbj8g/dhoom-music.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=136",
+
       "category": "music",
       "hot": "",
       "country": "india",
@@ -3666,6 +3665,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=136",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=136"
         }
       ]
     },
@@ -3696,7 +3701,7 @@
       "language": "",
       "myList": [
         {
-          "name": "Video",
+          "name": "BD Only",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1701378513:KeyName=prod_live_events:Signature=N644JzLU0aqhwcpT67i5OXt4ovuqQzck-kHeREVehGNMRHHwa_UXZ9Rb9zY-Q54XSqEfA6gcg_3mkT6jvwpUBg",
           "source": "",
@@ -4398,8 +4403,7 @@
     {
       "name": "B4U Movies",
       "image": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=187",
+
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -4414,12 +4418,18 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8"
         },
         {
-          "name": "Video",
+          "name": "Ayna 1",
           "type": "V",
           "cookie": "https://mhdtvplay.net/",
           "source": "https://entezeetv.fun/ayna/play.php?id=187",
           "referer": "",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=187"
         }
       ]
     },
@@ -4604,10 +4614,6 @@
     {
       "name": "Zee News",
       "image": "https://images.toffeelive.com/images/program/336/logo/240x240/mobile_logo_740569001675858107.png",
-      "host1": "",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=100",
-      "host2": "https://watchmhdtv.com",
-      "server2": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4628,6 +4634,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=100",
           "referer": "https://watchmhdtv.com",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=100"
         }
       ]
     },
@@ -4894,8 +4906,6 @@
     {
       "name": "B4U Music",
       "image": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=39",
       "category": "music",
       "hot": "",
       "country": "india",
@@ -4916,6 +4926,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=39",
           "referer": "https://mhdtvplay.net/",
           "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=39"
         }
       ]
     },
@@ -4976,10 +4992,6 @@
     {
       "name": "MTV HD Plus",
       "image": "https://i.ibb.co/VmmgQNk/mtv-india-185x278.jpg",
-      "host1": "",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=50",
-      "host2": "https://watchmhdtv.com",
-      "server2": "",
       "category": "music",
       "hot": "",
       "country": "india",
@@ -5000,6 +5012,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=50",
           "referer": "https://watchmhdtv.com",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=50"
         }
       ]
     },
@@ -5094,8 +5112,6 @@
     {
       "name": "HISTORY TV",
       "image": "https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",
-      "host1": "https://watchmhdtv.com",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=44",
       "category": "doc",
       "hot": "",
       "country": "",
@@ -5116,6 +5132,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=44",
           "referer": "https://watchmhdtv.com",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=44"
         }
       ]
     },
