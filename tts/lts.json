@@ -2885,8 +2885,6 @@
     {
       "name": "MY TV",
       "image": "https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=13",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2907,14 +2905,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=13",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=13"
         }
       ]
     },
     {
       "name": "Channel 9",
       "image": "https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=20",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2935,14 +2937,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=20",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=20"
         }
       ]
     },
     {
       "name": "NTV",
       "image": "https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=8",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2963,14 +2969,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=8",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=8"
         }
       ]
     },
     {
       "name": "Mohona TV",
       "image": "https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=15",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2991,14 +3001,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=15",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=15"
         }
       ]
     },
     {
       "name": "Maasranga TV",
       "image": "https://i.ibb.co/nCrdzp1/masranga.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=11",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -3011,14 +3025,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=11",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=11"
         }
       ]
     },
     {
       "name": "Sangsad TV",
       "image": "https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=3",
       "category": "news",
       "hot": "",
       "country": "bd",
@@ -3039,29 +3057,35 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=3",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=3"
         }
       ]
     },
     {
       "name": "রূপসী বাংলা",
       "image": "https://i.ibb.co/mbxnYs1/rupashi.webp",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Flivetv-channels.b-cdn.net%2F8079%2Fchunklist0.m3u8&amp;id=13206&amp;type=mp4",
       "category": "",
       "hot": "",
       "country": "india",
       "language": "",
       "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=30"
+        }
       ]
     },
     {
       "name": "Zee Bangla Cinema",
       "image": "https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://mhdtv.co.in/jio/play.php?id=685&amp;c=Zee_Bangla_Cinema",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://myzee5.xyz/toffee/plahttps://watchmhdtv.com/jwplayer/?source=https%3A%2F%2Fd75dqofg5kmfk.cloudfront.net%2Fbpk-tv%2FZeebanglacinema%2Fdefault%2Findex.m3u8&amp;id=6266&amp;type=mp4y.php?c=zee_bangla_cinema",
-      "category": "movie",
+     "category": "movie",
       "hot": "",
       "country": "india",
       "language": "",
@@ -3081,6 +3105,12 @@
           "source": "",
           "referer": "",
           "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=685&amp;c=Zee_Bangla_Cinema"
         }
       ]
     },
