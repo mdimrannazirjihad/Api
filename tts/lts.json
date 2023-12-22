@@ -2757,8 +2757,6 @@
     {
       "name": "Bangla TV",
       "image": "https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=31",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2779,14 +2777,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=31",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=31"
         }
       ]
     },
     {
       "name": "Bijoy TV",
       "image": "https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=16",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2807,14 +2809,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=16",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=16"
         }
       ]
     },
     {
       "name": "BTV Chattogram",
       "image": "https://images.toffeelive.com/images/program/418/logo/240x240/mobile_logo_799556001673182578.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=4",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2835,14 +2841,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=4",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=4"
         }
       ]
     },
     {
       "name": "BTV World",
       "image": "https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=2",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -2863,6 +2873,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=2",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=2"
         }
       ]
     },
