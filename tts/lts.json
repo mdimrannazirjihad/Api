@@ -1034,7 +1034,7 @@
           "name": "Ayna 1",
           "type": "V",
           "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player.php?c=Ten1HD",
+          "source": "https://entezeetv.fun/ayna/play.php?id=76",
           "referer": "https://mhdtvplay.net/",
           "video": ""
         },
@@ -1064,7 +1064,7 @@
           "name": "Ayna 1",
           "type": "V",
           "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=Ten2HD",
+          "source": "https://entezeetv.fun/ayna/play.php?id=92",
           "referer": "https://mhdtvplay.net/",
           "video": ""
         },
@@ -1083,36 +1083,6 @@
       ]
     },
     {
-      "name": "SONY TEN 3",
-      "image": "https://i.ibb.co/Wc8Hm0Q/ten3hd-185x278.png",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "Ayna 1",
-          "type": "V",
-          "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=Ten3HD",
-          "referer": "https://mhdtvplay.net/",
-          "video": ""
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009278"
-        },
-        {
-          "name": "Web 2",
-          "type": "W",
-          "host": "https://mhdtvplay.net/",
-          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009283"
-        }
-      ]
-    },
-    {
       "name": "SONY TEN 5",
       "image": "https://i.ibb.co/MGymrFS/sony5hd-185x278.jpg",
       "category": "entertainment",
@@ -1124,7 +1094,7 @@
           "name": "Ayna 1",
           "type": "V",
           "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player.php?c=SonySixHD",
+          "source": "https://entezeetv.fun/ayna/play.php?id=91",
           "referer": "https://mhdtvplay.net/",
           "video": ""
         },
@@ -1143,11 +1113,11 @@
       ]
     },
     {
-      "name": "SONY SPORTS TEN 3 HD",
+      "name": "SONY SPORTS TEN 3",
       "image": "https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png",
-      "category": "toffee",
+      "category": "entertainment",
       "hot": "",
-      "country": "",
+      "country": "india",
       "language": "",
       "myList": [
         {
@@ -1157,6 +1127,32 @@
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten3_hd/playlist.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=79",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009278"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009283"
+        },
+        {
+          "name": "Web 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=79"
         }
       ]
     },
@@ -3385,7 +3381,6 @@
     {
       "name": "Gaan Bangla",
       "image": "https://i.ibb.co/rxX1mNd/gann-bangla.png",
-
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -3442,7 +3437,6 @@
     {
       "name": "Global TV HD",
       "image": "https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",
-
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -3493,7 +3487,6 @@
     {
       "name": "Iqra",
       "image": "https://i.ibb.co/8scCQ2Q/iqra-tv.png",
-
       "category": "Religion",
       "hot": "",
       "country": "bd",
@@ -3518,7 +3511,6 @@
     {
       "name": "দুরন্ত",
       "image": "https://i.ibb.co/SwXzLm1/duronto-tv.png",
-
       "category": "kids",
       "hot": "",
       "country": "bd",
@@ -3543,7 +3535,6 @@
     {
       "name": "Green",
       "image": "https://i.ibb.co/0FcQ1VS/green-tv.png",
-
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -3584,7 +3575,6 @@
     {
       "name": "Sky Sports Action",
       "image": "https://i.ibb.co/C7TTHmh/sky-sports-action.png",
-
       "category": "",
       "hot": "",
       "country": "us",
@@ -3601,7 +3591,6 @@
     {
       "name": "Makkah TV",
       "image": "https://i.ibb.co/z7qgmXW/makhhha-tv.pngthe_Great_Mosque_of_Mecca%2C_Saudi_Arabia_%281%29.jpg",
-
       "category": "religion",
       "hot": "",
       "country": "ar",
@@ -3652,7 +3641,6 @@
     {
       "name": "Dhoom Music",
       "image": "https://i.ibb.co/tmYbj8g/dhoom-music.png",
-
       "category": "music",
       "hot": "",
       "country": "india",
@@ -4403,7 +4391,6 @@
     {
       "name": "B4U Movies",
       "image": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
-
       "category": "movie",
       "hot": "",
       "country": "india",
