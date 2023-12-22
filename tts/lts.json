@@ -1668,7 +1668,6 @@
           "referer": "https://mhdtvplay.net/",
           "video": ""
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -1812,27 +1811,37 @@
     {
       "name": "Rongeen",
       "image": "https://i.ibb.co/nRSRJrg/rongeen-tv.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://mhdtv.co.in/jio/play.php?id=1667&amp;c=Rongeen_TV",
       "category": "kids",
       "hot": "",
       "country": "india",
       "language": "",
       "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=1667&amp;c=Rongeen_TV"
+        }
       ]
     },
     {
       "name": "Animal Planet HD",
       "image": "https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png",
-      "host1": "https://watchmhdtv.com",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=55",
       "category": "doc",
       "hot": "",
       "country": "us",
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8"
+        },
+        {
+          "name": "BD Only HD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
           "source": "",
@@ -1848,12 +1857,12 @@
           "video": "https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8"
         },
         {
-          "name": "BD Only",
+          "name": "Ayna 1",
           "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8"
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=55",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
         }
       ]
     },
@@ -1940,8 +1949,6 @@
     {
       "name": "Discovery",
       "image": "https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://watchmhdtv.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Bangla.m3u8&amp;id=12039&amp;type=mp4",
       "category": "doc",
       "hot": "",
       "country": "us",
@@ -1956,7 +1963,7 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8"
         },
         {
-          "name": "Fixed",
+          "name": "Bangla 1",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -1964,7 +1971,7 @@
           "video": "https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8"
         },
         {
-          "name": "Fixed",
+          "name": "Multiple",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -2116,20 +2123,22 @@
     {
       "name": "National Geographic",
       "image": "https://yt3.googleusercontent.com/13FpK4FfJb_I-aTMNRQTmaxLO2vjEi_NzWm1KxOzr-vjYLX7QmfHwn6XC3PfEf4Oay5WjP0CXw=s176-c-k-c0x00ffffff-no-rj",
-      "host1": "https://www.youtube.com/",
-      "server1": "https://www.youtube.com/embed/gsA3-3_Cl8s?si=dAgO3GOXMd5f3hMm",
       "category": "doc",
       "hot": "",
       "country": "us",
       "language": "",
       "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://www.youtube.com/",
+          "server": "https://www.youtube.com/embed/gsA3-3_Cl8s?si=dAgO3GOXMd5f3hMm"
+        }
       ]
     },
     {
       "name": "আমার সিনেমা",
       "image": "https://i.ibb.co/Pw0MV7k/amaarcinema.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://mhdtv.co.in/jio/play.php?id=1962&amp;c=Amaar_Bangla",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -2142,21 +2151,35 @@
           "source": "",
           "referer": "",
           "video": "https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=1962&amp;c=Amaar_Bangla"
         }
       ]
     },
     {
       "name": "Sun বাংলা",
       "image": "https://i.ibb.co/FbQTXNT/Sun-Bangla.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://mhdtv.co.in/jio/play.php?id=1669&amp;c=Sun_Bangla",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://sunnxtv.co.in/sun/play.php?c=75117",
       "category": "entertainment",
       "hot": "",
       "country": "india",
       "language": "",
       "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=1669&amp;c=Sun_Bangla"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://sunnxtv.co.in/sun/play.php?c=75117"
+        }
       ]
     },
     {
@@ -2188,10 +2211,6 @@
     {
       "name": "Jalsha Movies VIP",
       "image": "https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://myzee5.xyz/toffee/play.php?c=jalsha_movies",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://mhdtvpro.com/bigtv/play.php?watch=fabd4bb2c7cad6790ca86bc9ea9d7ae4a61c0b97c3b65ae0872d37fec8dd4768",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -2218,10 +2237,6 @@
     {
       "name": "Colors Bangla Cinema",
       "image": "https://images.toffeelive.com/images/program/10157/logo/240x240/mobile_logo_151189001655892087.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://mhdtv.co.in/jio/play.php?id=1657&amp;c=Colors_Bangla_Cinema",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://myzee5.xyz/toffee/play.php?c=colors_bangla_cinema",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -2234,6 +2249,12 @@
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/colors_bangla_cinema/playlist.m3u8"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=1657&amp;c=Colors_Bangla_Cinema"
         }
       ]
     },
