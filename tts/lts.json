@@ -2573,8 +2573,6 @@
     {
       "name": "NEWS24",
       "image": "https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=30",
       "category": "news",
       "hot": "",
       "country": "bd",
@@ -2595,6 +2593,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=30",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=30"
         }
       ]
     },
