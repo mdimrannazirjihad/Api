@@ -317,8 +317,6 @@
     {
       "name": "WILLOW EXTRA",
       "image": "https://i.ibb.co/92pYrJ8/willwo-xtra.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://faketv.co.in/criclife/willowhd.php",
       "category": "Sports",
       "hot": "true",
       "country": "us",
@@ -331,6 +329,20 @@
           "source": "",
           "referer": "https://weblivehdplay.ru/",
           "video": "https://webudit.webhd.ru/lb/premium346/index.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=113",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://faketv.co.in/criclife/willowhd.php"
         }
       ]
     },
