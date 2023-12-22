@@ -1400,21 +1400,27 @@
         }
       ]
     },
-
-
     {
       "name": "SONY WAH",
-      "image": "https://i.ibb.co/mbLtY1h/wah-185x278.png",
+      "image": "https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png",
       "category": "entertainment",
       "hot": "",
       "country": "india",
       "language": "",
       "myList": [
         {
+          "name": "BD Only",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_wah/playlist.m3u8"
+        },
+        {
           "name": "Ayna 1",
           "type": "V",
           "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=SonyWah",
+          "source": "https://entezeetv.fun/ayna/play.php?id=78",
           "referer": "https://mhdtvplay.net/",
           "video": ""
         },
@@ -1423,22 +1429,36 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009253"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=78"
         }
       ]
     },
     {
-      "name": "SONY PAL",
-      "image": "https://i.ibb.co/pw1dZB9/pal-185x278.png",
+      "name": "Sony Pal",
+      "image": "https://images.toffeelive.com/images/program/2421/logo/240x240/mobile_logo_799518001666784496.png",
       "category": "entertainment",
       "hot": "",
       "country": "india",
       "language": "",
       "myList": [
         {
+          "name": "BD Only",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pal/playlist.m3u8"
+        },
+        {
           "name": "Ayna 1",
           "type": "V",
           "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=SonyPal",
+          "source": "https://entezeetv.fun/ayna/play.php?id=87",
           "referer": "https://mhdtvplay.net/",
           "video": ""
         },
@@ -1447,6 +1467,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009273"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=87"
         }
       ]
     },
@@ -1477,7 +1503,7 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
           "source": "",
@@ -1497,42 +1523,6 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtv.co.in/jio/play.php?id=823&c=Sony_BBC_Earth_SD"
-        }
-      ]
-    },
-    {
-      "name": "SONY WAH",
-      "image": "https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_wah/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Sony Pal",
-      "image": "https://images.toffeelive.com/images/program/2421/logo/240x240/mobile_logo_799518001666784496.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pal/playlist.m3u8"
         }
       ]
     },
