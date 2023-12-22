@@ -1427,24 +1427,34 @@
     {
       "name": "SONY MAX2",
       "image": "https://i.ibb.co/4NjjynB/max2-185x278.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://cdn-tv.co.in/sonyliv/play.php?c=1000044878",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://mhdtvpro.com/ayna/player2.php?c=SonyMax2",
-      "host3": "https://mhdtvplay.net/",
-      "server3": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2",
       "category": "entertainment",
       "hot": "",
       "country": "india",
       "language": "",
       "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000044878"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2"
+        },
+        {
+          "name": "Web 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2"
+        }
       ]
     },
     {
       "name": "SONY PIX HD",
       "image": "https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=74",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -1465,14 +1475,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=74",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=74"
         }
       ]
     },
     {
       "name": "SONY PIX",
       "image": "https://images.toffeelive.com/images/program/397/logo/240x240/mobile_logo_049568001666785583.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=89",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -1493,18 +1507,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=89",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=89"
         }
       ]
     },
     {
       "name": "Sony AATH",
       "image": "https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://mhdtv.co.in/jio/play.php?id=697&c=Sony_aath",
-      "host2": "https://mhdtvplay.net/",
-      "server2": "https://entezeetv.fun/ayna/play.php?id=86",
-      "host3": "https://mhdtvplay.net/",
-      "server3": "https://mhdtv.co.in/jio/play.php?id=697&amp;c=Sony_aath",
       "category": "Enterteinment",
       "hot": "yes",
       "country": "india",
@@ -1525,14 +1539,24 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=86",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=697&c=Sony_aath"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=86"
         }
       ]
     },
     {
       "name": "SONY YAY",
       "image": "https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png",
-      "host1": "https://mhdtvplay.net/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=70",
       "category": "kids",
       "hot": "",
       "country": "india",
@@ -1553,6 +1577,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=70",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=70"
         }
       ]
     },
