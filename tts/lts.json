@@ -4011,32 +4011,6 @@
       ]
     },
     {
-      "name": "Zee TV HD",
-      "image": "https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png",
-      "category": "entertainment",
-      "hot": "",
-      "country": "india",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8"
-        },
-        {
-          "name": "Fixed",
-          "type": "V",
-          "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8"
-        }
-      ]
-    },
-    {
       "name": "Zee TV",
       "image": "https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png",
       "category": "entertainment",
@@ -4045,7 +4019,7 @@
       "language": "hi",
       "myList": [
         {
-          "name": "Fixed",
+          "name": "Fixed SD",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -4053,12 +4027,20 @@
           "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8"
         },
         {
-          "name": "Fixed",
+          "name": "Fixed HD",
           "type": "V",
           "cookie": "",
           "source": "",
           "referer": "",
           "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8"
+        },
+        {
+          "name": "BD Only HD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8"
         }
       ]
     },
