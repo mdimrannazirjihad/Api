@@ -2269,6 +2269,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1657&amp;c=Colors_Bangla_Cinema"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=1657&amp;c=Colors_Bangla_Cinema"
         }
       ]
     },
