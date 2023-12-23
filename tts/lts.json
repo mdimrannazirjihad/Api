@@ -125,6 +125,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=28",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=27"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=28"
         }
       ]
     },
@@ -151,6 +163,18 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=18",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=19"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=18"
         }
       ]
     },
@@ -205,6 +229,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=49",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=49"
         }
       ]
     },
@@ -241,6 +271,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=42",
           "referer": "https://watchmhdtv.com",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=42"
         }
       ]
     },
@@ -267,6 +303,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=43",
           "referer": "https://watchmhdtv.com",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=43"
         }
       ]
     },
@@ -343,6 +385,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://faketv.co.in/criclife/willowhd.php"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=113"
         }
       ]
     },
@@ -478,6 +526,12 @@
         },
         {
           "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=47"
+        },
+        {
+          "name": "Web 2",
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=47"
@@ -1057,6 +1111,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtvpro.com/ayna/player.php?c=Ten1HD"
+        },
+        {
+          "name": "Web 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=76"
         }
       ]
     },
@@ -1095,6 +1155,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtvpro.com/ayna/player2.php?c=SonyTen2"
+        },
+        {
+          "name": "Web 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=92"
         }
       ]
     },
