@@ -5540,6 +5540,14 @@
       "country": "india",
       "language": "hi",
       "myList": [
+        {
+          "name": "Fixed",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://dangalplaycdn.vidgyor.com/pub-iodanga2a26kj2/liveabr/playlist.m3u8"
+        }
       ]
     },
     {
