@@ -1877,6 +1877,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=55",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=55"
         }
       ]
     },
