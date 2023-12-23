@@ -5688,7 +5688,7 @@
           "name": "Video",
           "type": "V",
           "cookie": "",
-          "source": "https://watchmhdtv.com/delta/shemaroo/play.php?c=shemarooumang/smil:shemarooumangadp.smil",
+          "source": "https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-umang",
           "referer": "https://mhdtvplay.net/",
           "video": ""
         }
@@ -5706,7 +5706,7 @@
           "name": "Video",
           "type": "V",
           "cookie": "",
-          "source": "https://watchmhdtv.com/delta/shemaroo/play.php?c=shemarootv/smil:shemarootvadp.smil",
+          "source": "https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-tv",
           "referer": "https://mhdtvplay.net/",
           "video": ""
         }
