@@ -5017,6 +5017,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=50"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://livevoot.co.in/voot/play.php?id=MTV_HD_Plus_voot_MOB"
         }
       ]
     },
