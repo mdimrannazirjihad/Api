@@ -1251,6 +1251,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtvpro.com/ayna/play.php?c=82"
+        },
+        {
+          "name": "Web 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=91"
         }
       ]
     },
@@ -1354,7 +1360,7 @@
           "name": "Web 3",
           "type": "W",
           "host": "https://mhdtvplay.net/",
-          "server": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2"
+          "server": "https://entezeetv.fun/ayna/play.php?id=82"
         }
       ]
     },
