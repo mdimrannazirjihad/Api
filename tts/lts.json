@@ -4167,32 +4167,6 @@
       ]
     },
     {
-      "name": "Cartoon Network Hindi HD",
-      "image": "https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",
-      "category": "kids",
-      "hot": "yes",
-      "country": "india",
-      "language": "hi",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8"
-        },
-        {
-          "name": "Fixed",
-          "type": "V",
-          "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8"
-        }
-      ]
-    },
-    {
       "name": "Cartoon Network Hindi",
       "image": "https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png",
       "category": "kids",
@@ -4201,7 +4175,7 @@
       "language": "hi",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
           "source": "",
@@ -4209,7 +4183,23 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8"
         },
         {
-          "name": "Fixed",
+          "name": "Fixed SD",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8"
+        },
+        {
+          "name": "BD Only HD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703322956:KeyName=prod_linear:Signature=ZkDlsZ_lxDThyxod_wlhwfLIpoDkn7xL6yVdhRoO2_SFT3RKLnqVONN28wKmIV2Rz8_zvhp6Dnv_Hhd887IjAw",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8"
+        },
+        {
+          "name": "Fixed HD",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -4285,6 +4275,12 @@
           "source": "",
           "referer": "",
           "video": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=559&c=Pogo_Hindi"
         }
       ]
     },
