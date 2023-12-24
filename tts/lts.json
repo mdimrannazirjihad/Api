@@ -849,6 +849,72 @@
       ]
     },
     {
+      "name": "BeIN Sports Max",
+      "image": "https://i.ibb.co/j3wXxf7/bein-sports-max.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "qatar",
+      "language": "",
+      "myList": [
+        {
+          "name": "MAX 4 France",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium494/playlist.m3u8"
+        },
+        {
+          "name": "MAX 5 France",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium495/playlist.m3u8"
+        },
+        {
+          "name": "MAX 6 France",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium496/playlist.m3u8"
+        },
+        {
+          "name": "MAX 7 France",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium497/playlist.m3u8"
+        },
+        {
+          "name": "MAX 8 France",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium498/playlist.m3u8"
+        },
+        {
+          "name": "MAX 9 France",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium499/playlist.m3u8"
+        },
+        {
+          "name": "MAX 10 France",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium500/playlist.m3u8"
+        }
+      ]
+    },
+    {
       "name": "BeIN Sports1",
       "image": "https://i.ibb.co/K7wj7z1/bein-sports-hd1.jpg",
       "category": "Sports",
