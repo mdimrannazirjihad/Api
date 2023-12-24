@@ -823,7 +823,7 @@
           "video": "https://ddy5.webhd.ru/ddy5/premium97/playlist.m3u8"
         },
         {
-          "name": "Premium 1",
+          "name": "Premium1",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -831,7 +831,7 @@
           "video": "https://ddy5.webhd.ru/ddy5/premium98/playlist.m3u8"
         },
         {
-          "name": "Premium 2",
+          "name": "Premium2",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -839,7 +839,7 @@
           "video": "https://webudit.webhd.ru/lb/premium99/index.m3u8"
         },
         {
-          "name": "Premium 3",
+          "name": "Premium3",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -905,7 +905,7 @@
           "video": "https://ddy5.webhd.ru/ddy5/premium499/playlist.m3u8"
         },
         {
-          "name": "MAX 10 France",
+          "name": "MAX10 France",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -923,7 +923,7 @@
       "language": "",
       "myList": [
         {
-          "name": "Sports 1 France",
+          "name": "Sports1 France",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -931,7 +931,7 @@
           "video": "https://ddh2.webhd.ru/ddh2/premium116/playlist.m3u8"
         },
         {
-          "name": "Sports 2 France",
+          "name": "Sports2 France",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -939,12 +939,44 @@
           "video": "https://ddh2.webhd.ru/ddh2/premium117/playlist.m3u8"
         },
         {
-          "name": "Sports 3 France",
+          "name": "Sports3 France",
           "type": "V",
           "cookie": "",
           "source": "",
           "referer": "https://weblivehdplay.ru/",
           "video": "https://ddh2.webhd.ru/ddh2/premium118/playlist.m3u8"
+        },
+        {
+          "name": "Sports1 Turkey",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy4.webhd.ru/ddy4/premium62/playlist.m3u8"
+        },
+        {
+          "name": "Sports2 Turkey",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy4.webhd.ru/ddy4/premium63/playlist.m3u8"
+        },
+        {
+          "name": "Sports3 Turkey",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy4.webhd.ru/ddy4/premium64/playlist.m3u8"
+        },
+        {
+          "name": "Sports4 Turkey",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy4.webhd.ru/ddy4/premium67/playlist.m3u8"
         }
       ]
     },
