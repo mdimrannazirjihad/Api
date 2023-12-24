@@ -735,6 +735,120 @@
       ]
     },
     {
+      "name": "BeIN Sports Mena",
+      "image": "https://i.ibb.co/Kz05ZtF/bein-sports-mana.png",
+      "category": "Sports",
+      "hot": "true",
+      "country": "qatar",
+      "language": "",
+      "myList": [
+        {
+          "name": "English 1",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy4.webhd.ru/ddy4/premium61/playlist.m3u8"
+        },
+        {
+          "name": "English 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://webudit.webhd.ru/lb/premium90/index.m3u8"
+        },
+        {
+          "name": "English 3",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://webudit.webhd.ru/lb/premium46/index.m3u8"
+        },
+        {
+          "name": "Mena 1",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium91/playlist.m3u8"
+        },
+        {
+          "name": "Mena 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium92/playlist.m3u8"
+        },
+        {
+          "name": "Mena 3",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium93/playlist.m3u8"
+        },
+        {
+          "name": "Mena 4",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium94/playlist.m3u8"
+        },
+        {
+          "name": "Mena 5",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium95/playlist.m3u8"
+        },
+        {
+          "name": "Mena 6",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium96/playlist.m3u8"
+        },
+        {
+          "name": "Mena 7",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium97/playlist.m3u8"
+        },
+        {
+          "name": "Premium 1",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium98/playlist.m3u8"
+        },
+        {
+          "name": "Premium 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://webudit.webhd.ru/lb/premium99/index.m3u8"
+        },
+        {
+          "name": "Premium 3",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://ddy5.webhd.ru/ddy5/premium100/playlist.m3u8"
+        }
+      ]
+    },
+    {
       "name": "BeIN Sports1",
       "image": "https://i.ibb.co/K7wj7z1/bein-sports-hd1.jpg",
       "category": "Sports",
