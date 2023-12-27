@@ -4119,6 +4119,14 @@
           "video": ""
         },
         {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=22"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -4151,6 +4159,14 @@
           "video": ""
         },
         {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=33"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -4181,6 +4197,14 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=34",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=34"
         },
         {
           "name": "Web 1",
@@ -4225,6 +4249,14 @@
           "video": ""
         },
         {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=37"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -4249,6 +4281,14 @@
           "video": ""
         },
         {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=36"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -4271,6 +4311,14 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=35",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=35"
         },
         {
           "name": "Web 1",
@@ -4377,6 +4425,14 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=136",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=136"
         },
         {
           "name": "Web 1",
@@ -5071,6 +5127,14 @@
           "video": ""
         },
         {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=187"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -5279,6 +5343,14 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=100",
           "referer": "https://watchmhdtv.com",
           "video": ""
+        },
+        {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=100"
         },
         {
           "name": "Web 1",
@@ -5573,12 +5645,28 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8"
         },
         {
+          "name": "Fixed",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8"
+        },
+        {
           "name": "Ayna 1",
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=39",
           "referer": "https://mhdtvplay.net/",
-          "video": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8"
+          "video": ""
+        },
+        {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=39"
         },
         {
           "name": "Web 1",
@@ -5713,6 +5801,14 @@
           "video": ""
         },
         {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=50"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -5829,6 +5925,14 @@
           "video": ""
         },
         {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=44"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -5920,9 +6024,17 @@
           "name": "Ayna 1",
           "type": "V",
           "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=GoldminesMovies",
+          "source": "https://entezeetv.fun/ayna/play.php?id=156",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=156"
         }
       ]
     },
@@ -5938,9 +6050,17 @@
           "name": "Ayna 1",
           "type": "V",
           "cookie": "",
-          "source": "https://mhdtvpro.com/ayna/player2.php?c=GoldminesBollywood",
+          "source": "https://entezeetv.fun/ayna/play.php?id=155",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Ayna 2",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=155"
         }
       ]
     },
