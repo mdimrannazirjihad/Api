@@ -2375,32 +2375,6 @@
       ]
     },
     {
-      "name": "Discovery HD",
-      "image": "https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",
-      "category": "doc",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703767767:KeyName=prod_linear:Signature=B-PiZJINC3HjOFBbLATuKV4BdXI7heWyORLshn9fsiGt_lDwGT_nDxib7KDwkMzPh_2pqXhqDF-qC_ZDqaaJBg",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8"
-        },
-        {
-          "name": "Fixed",
-          "type": "V",
-          "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://mhdtvplay.net/delta/discovery/api/Discovery_Channel.m3u8"
-        }
-      ]
-    },
-    {
       "name": "Love Nature",
       "image": "https://i.ibb.co/QCWqGtN/love-nature.png",
       "category": "doc",
@@ -2445,12 +2419,28 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703767767:KeyName=prod_linear:Signature=B-PiZJINC3HjOFBbLATuKV4BdXI7heWyORLshn9fsiGt_lDwGT_nDxib7KDwkMzPh_2pqXhqDF-qC_ZDqaaJBg",
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8"
+        },
+        {
+          "name": "BD Only HD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703767767:KeyName=prod_linear:Signature=B-PiZJINC3HjOFBbLATuKV4BdXI7heWyORLshn9fsiGt_lDwGT_nDxib7KDwkMzPh_2pqXhqDF-qC_ZDqaaJBg",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8"
+        },
+        {
+          "name": "Fixed",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://mhdtvplay.net/delta/discovery/api/Discovery_Channel.m3u8"
         },
         {
           "name": "Bangla 1",
