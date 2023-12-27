@@ -4529,6 +4529,14 @@
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8"
+        },
+        {
+          "name": "Fixed",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8"
         }
       ]
     },
