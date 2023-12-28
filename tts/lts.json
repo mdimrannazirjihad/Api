@@ -6633,12 +6633,10 @@
           "video": ""
         },
         {
-          "name": "Ayna2 Fixed",
-          "type": "V",
-          "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=155"
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=155"
         }
       ]
     },
