@@ -539,6 +539,60 @@
       ]
     },
     {
+      "name": "Arena Sport 1 Premium",
+      "image": "https://i.ibb.co/sbNFS7K/arena-sport-primium1.png",
+      "category": "Sports",
+      "hot": "true",
+      "country": "Bosnia",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy4/premium134/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Arena Sport 2 Premium",
+      "image": "https://i.ibb.co/F74qvV9/arena-sport-primium2.png",
+      "category": "Sports",
+      "hot": "true",
+      "country": "Bosnia",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy4/premium134/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Arena Sport 3 Premium",
+      "image": "https://i.ibb.co/GMmWm2w/arena-sport-primium3.png",
+      "category": "Sports",
+      "hot": "true",
+      "country": "Bosnia",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh1/premium139/playlist.m3u8"
+        }
+      ]
+    },
+    {
       "name": "SKY MainEvant",
       "image": "https://i.ibb.co/7NbYYH9/sky-sports-main-evant.png",
       "category": "Sports",
