@@ -1213,6 +1213,20 @@
           "type": "W",
           "host": "https://forja.me/",
           "server": "https://forja.me/stream/CK.php?id=001"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=218",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=218"
         }
       ]
     },
