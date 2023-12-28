@@ -467,6 +467,78 @@
       ]
     },
     {
+      "name": "TNT Sports 1",
+      "image": "https://i.ibb.co/nkpGX0z/tnt-sports1.png",
+      "category": "Sports",
+      "hot": "true",
+      "country": "uk",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Uk",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh2/premium31/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "TNT Sports 2",
+      "image": "https://i.ibb.co/wSYbJfn/tnt-spots2.png",
+      "category": "Sports",
+      "hot": "true",
+      "country": "uk",
+      "language": "en",
+      "myList": [
+        {
+          "name": "UK",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh2/premium32/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "TNT Sports 3",
+      "image": "https://i.ibb.co/DWkWP1v/tnt-spots3.png",
+      "category": "Sports",
+      "hot": "true",
+      "country": "uk",
+      "language": "en",
+      "myList": [
+        {
+          "name": "UK",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh2/premium33/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "TNT Sports 4",
+      "image": "https://i.ibb.co/9ghFwYK/tnt-spots4.png",
+      "category": "Sports",
+      "hot": "true",
+      "country": "uk",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh2/premium34/playlist.m3u8"
+        }
+      ]
+    },
+    {
       "name": "SKY MainEvant",
       "image": "https://i.ibb.co/7NbYYH9/sky-sports-main-evant.png",
       "category": "Sports",
