@@ -815,6 +815,54 @@
       ]
     },
     {
+      "name": "FS 1",
+      "image": "https://i.ibb.co/jZ9mSDN/arena-sport-bih.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=120",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=120"
+        }
+      ]
+    },
+    {
+      "name": "FS 2",
+      "image": "https://i.ibb.co/jZ9mSDN/arena-sport-bih.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=121",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=121"
+        }
+      ]
+    },
+    {
       "name": "SKY MainEvant",
       "image": "https://i.ibb.co/7NbYYH9/sky-sports-main-evant.png",
       "category": "Sports",
