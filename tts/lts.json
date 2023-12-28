@@ -697,6 +697,24 @@
       ]
     },
     {
+      "name": "Arena Sport BIH",
+      "image": "https://i.ibb.co/jZ9mSDN/arena-sport-bih.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Bosnia",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://webudit.webhd.ru/lb/premium579/index.m3u8"
+        }
+      ]
+    },
+    {
       "name": "SKY MainEvant",
       "image": "https://i.ibb.co/7NbYYH9/sky-sports-main-evant.png",
       "category": "Sports",
