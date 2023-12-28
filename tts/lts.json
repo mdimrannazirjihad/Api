@@ -5439,6 +5439,20 @@
           "source": "",
           "referer": "",
           "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=93",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=93"
         }
       ]
     },
@@ -5619,6 +5633,20 @@
           "source": "",
           "referer": "",
           "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=103",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=103"
         }
       ]
     },
@@ -6533,6 +6561,30 @@
       ]
     },
     {
+      "name": "Goldmines",
+      "image": "https://i.ibb.co/GxHFJPt/goldmines.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=154",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=154"
+        }
+      ]
+    },
+    {
       "name": "Goldmines Movies",
       "image": "https://i.ibb.co/TgfW9WD/goldmovies-185x278.webp",
       "category": "movie",
@@ -6549,12 +6601,18 @@
           "video": ""
         },
         {
-          "name": "Ayna2 Fixed",
+          "name": "Ayna 2",
           "type": "V",
           "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=156"
+          "source": "https://entezeetv.fun/ayna/play.php?id=122",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=122"
         }
       ]
     },
@@ -6671,6 +6729,20 @@
           "source": "",
           "referer": "",
           "video": "https://idvd.multitvsolution.com/idvo/manoranjantv.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=169",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=169"
         }
       ]
     },
@@ -7013,6 +7085,20 @@
           "source": "https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-umang",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=180",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=180"
         }
       ]
     },
@@ -7031,6 +7117,20 @@
           "source": "https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-tv",
           "referer": "https://mhdtvplay.net/",
           "video": ""
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=174",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=174"
         }
       ]
     },
