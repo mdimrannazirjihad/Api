@@ -6907,6 +6907,30 @@
       ]
     },
     {
+      "name": "MTV",
+      "image": "https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png",
+      "category": "toffee",
+      "hot": "",
+      "country": "",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=50",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=50"
+        }
+      ]
+    },
+    {
       "name": "MTV HD Plus",
       "image": "https://i.ibb.co/VmmgQNk/mtv-india-185x278.jpg",
       "category": "music",
