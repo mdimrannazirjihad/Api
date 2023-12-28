@@ -2423,6 +2423,54 @@
       ]
     },
     {
+      "name": "Bloomberg TV",
+      "image": "https://i.ibb.co/Tq8F81d/crackle-185x278.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=112",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=112"
+        }
+      ]
+    },
+    {
+      "name": "BBC America",
+      "image": "https://i.ibb.co/Tq8F81d/crackle-185x278.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=111",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=111"
+        }
+      ]
+    },
+    {
       "name": "SONY BBC EARTH",
       "image": "https://images.toffeelive.com/images/program/396/logo/240x240/mobile_logo_708825001655891324.png",
       "category": "entertainment",
@@ -2875,6 +2923,30 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=228"
+        }
+      ]
+    },
+    {
+      "name": "BABY TV",
+      "image": "https://i.ibb.co/nRSRJrg/rongeen-tv.png",
+      "category": "kids",
+      "hot": "",
+      "country": "india",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=110",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=110"
         }
       ]
     },
@@ -7339,6 +7411,30 @@
       ]
     },
     {
+      "name": "CINE HITS",
+      "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=164",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=164"
+        }
+      ]
+    },
+    {
       "name": "Colors Cineplex HD",
       "image": "https://i.ibb.co/yhpfQwT/colors-cineplex.png",
       "category": "movie",
@@ -7667,6 +7763,102 @@
       ]
     },
     {
+      "name": "9X JHAKAAS",
+      "image": "https://i.ibb.co/Tkqs0xQ/9xm-music.png",
+      "category": "music",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=134",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=134"
+        }
+      ]
+    },
+    {
+      "name": "9X TASHAN",
+      "image": "https://i.ibb.co/Tkqs0xQ/9xm-music.png",
+      "category": "music",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=147",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=147"
+        }
+      ]
+    },
+    {
+      "name": "8XM Music",
+      "image": "https://i.ibb.co/Tkqs0xQ/9xm-music.png",
+      "category": "music",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=217",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=217"
+        }
+      ]
+    },
+    {
+      "name": "Ary Music",
+      "image": "https://i.ibb.co/Tkqs0xQ/9xm-music.png",
+      "category": "music",
+      "hot": "",
+      "country": "pk",
+      "language": "pk",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=183",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=183"
+        }
+      ]
+    },
+    {
       "name": "Mastiiii",
       "image": "https://i.ibb.co/njmZWVT/masti-tv.png",
       "category": "music",
@@ -7729,6 +7921,30 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=175"
+        }
+      ]
+    },
+    {
+      "name": "DILLAGI TV",
+      "image": "https://i.ibb.co/njmZWVT/masti-tv.png",
+      "category": "music",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=137",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=137"
         }
       ]
     },
