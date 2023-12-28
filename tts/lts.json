@@ -2765,6 +2765,20 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1667&amp;c=Rongeen_TV"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=179",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=179"
         }
       ]
     },
@@ -2975,6 +2989,20 @@
           "source": "",
           "referer": "",
           "video": "https://mhdtvplay.net/delta/discovery/api/Discovery_Science.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=54",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=54"
         }
       ]
     },
@@ -3037,6 +3065,20 @@
           "source": "",
           "referer": "",
           "video": "https://mhdtvplay.net/delta/discovery/api/Discovery_Turbo.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=53",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=53"
         }
       ]
     },
@@ -3071,6 +3113,20 @@
           "source": "",
           "referer": "",
           "video": "https://mhdtvplay.net/delta/discovery/api/Investigation_Discovery.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=56",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=56"
         }
       ]
     },
@@ -4865,14 +4921,6 @@
           "video": ""
         },
         {
-          "name": "Ayna2 Fixed",
-          "type": "V",
-          "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=36"
-        },
-        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -5533,7 +5581,7 @@
       ]
     },
     {
-      "name": "Cartoon Network Hindi",
+      "name": "Cartoon Network",
       "image": "https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png",
       "category": "kids",
       "hot": "",
@@ -5541,7 +5589,7 @@
       "language": "hi",
       "myList": [
         {
-          "name": "BD Only SD",
+          "name": "BD Only SD Hindi",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
           "source": "",
@@ -5549,7 +5597,7 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8"
         },
         {
-          "name": "Fixed SD",
+          "name": "Fixed SD Hindi",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -5557,7 +5605,7 @@
           "video": "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8"
         },
         {
-          "name": "BD Only HD",
+          "name": "BD Only HD Hindi",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
           "source": "",
@@ -5565,12 +5613,26 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8"
         },
         {
-          "name": "Fixed HD",
+          "name": "Fixed HD Hindi",
           "type": "V",
           "cookie": "",
           "source": "",
           "referer": "",
           "video": "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=65",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=65"
         }
       ]
     },
