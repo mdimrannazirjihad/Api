@@ -2727,7 +2727,7 @@
       ]
     },
     {
-      "name": "Nick Bangla",
+      "name": "Nick",
       "image": "https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png",
       "category": "kids",
       "hot": "",
@@ -2735,7 +2735,7 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only Hindi",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
           "source": "",
@@ -2743,7 +2743,7 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/nick/playlist.m3u8"
         },
         {
-          "name": "Fixed",
+          "name": "Fixed Hindi",
           "type": "V",
           "cookie": "",
           "source": "",
@@ -2779,6 +2779,102 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=179"
+        }
+      ]
+    },
+    {
+      "name": "THE JUNGLE BOOK",
+      "image": "https://i.ibb.co/nRSRJrg/rongeen-tv.png",
+      "category": "kids",
+      "hot": "",
+      "country": "india",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=162",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=162"
+        }
+      ]
+    },
+    {
+      "name": "PBS KIDS",
+      "image": "https://i.ibb.co/nRSRJrg/rongeen-tv.png",
+      "category": "kids",
+      "hot": "",
+      "country": "india",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=66",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=66"
+        }
+      ]
+    },
+    {
+      "name": "BEANI KIDS TV",
+      "image": "https://i.ibb.co/nRSRJrg/rongeen-tv.png",
+      "category": "kids",
+      "hot": "",
+      "country": "india",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=224",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=224"
+        }
+      ]
+    },
+    {
+      "name": "BABY FIRST",
+      "image": "https://i.ibb.co/nRSRJrg/rongeen-tv.png",
+      "category": "kids",
+      "hot": "",
+      "country": "india",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=228",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=228"
         }
       ]
     },
@@ -5637,7 +5733,7 @@
       ]
     },
     {
-      "name": "Discovery Kids Hindi",
+      "name": "Discovery Kids",
       "image": "https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png",
       "category": "kids",
       "hot": "",
@@ -5645,7 +5741,7 @@
       "language": "hi",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only Hindi",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
           "source": "",
@@ -5653,12 +5749,26 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8"
         },
         {
-          "name": "Fixed",
+          "name": "Fixed Hindi",
           "type": "V",
           "cookie": "",
           "source": "",
           "referer": "",
           "video": "https://watchmhdtv.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=52",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=52"
         }
       ]
     },
@@ -7483,6 +7593,20 @@
           "source": "",
           "referer": "",
           "video": "https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=158",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=158"
         }
       ]
     },
