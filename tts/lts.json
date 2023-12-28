@@ -421,7 +421,7 @@
       ]
     },
     {
-      "name": "WILLOW EXTRA",
+      "name": "WILLOW HD",
       "image": "https://i.ibb.co/92pYrJ8/willwo-xtra.png",
       "category": "Sports",
       "hot": "true",
@@ -825,6 +825,30 @@
           "source": "",
           "referer": "",
           "video": "https://cdn.live247stream.com/thelight/tv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "A Sports",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "pk",
+      "language": "pk",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=68",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=68"
         }
       ]
     },
@@ -1659,7 +1683,7 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
           "source": "",
@@ -1667,10 +1691,26 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_1/playlist.m3u8"
         },
         {
-          "name": "Ayna 1",
+          "name": "BD Only HD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8"
+        },
+        {
+          "name": "Ayna 1 HD",
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=76",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Ayna 2 SD",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=84",
           "referer": "https://mhdtvplay.net/",
           "video": ""
         },
@@ -1699,6 +1739,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=76"
+        },
+        {
+          "name": "Web 4",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=84"
         }
       ]
     },
@@ -1711,12 +1757,20 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_2/playlist.m3u8"
+        },
+        {
+          "name": "BD Only HD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten2_hd/playlist.m3u8"
         },
         {
           "name": "Ayna 1",
@@ -1727,12 +1781,12 @@
           "video": ""
         },
         {
-          "name": "Ayna2 Fixed",
+          "name": "Ayna 2",
           "type": "V",
           "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=92"
+          "source": "https://entezeetv.fun/ayna/play.php?id=88",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
         },
         {
           "name": "Web 1",
@@ -1748,6 +1802,12 @@
         },
         {
           "name": "Web 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=92"
+        },
+        {
+          "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=92"
@@ -1779,7 +1839,7 @@
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_3/playlist.m3u8"
         },
         {
-          "name": "Ayna 1",
+          "name": "Ayna 1 HD",
           "type": "V",
           "cookie": "",
           "source": "https://entezeetv.fun/ayna/play.php?id=79",
@@ -1787,12 +1847,12 @@
           "video": ""
         },
         {
-          "name": "Ayna2 Fixed",
+          "name": "Ayna 2 SD",
           "type": "V",
           "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=79"
+          "source": "https://entezeetv.fun/ayna/play.php?id=85",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
         },
         {
           "name": "Web 1",
@@ -1811,6 +1871,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=79"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=85"
         }
       ]
     },
@@ -1823,12 +1889,28 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only SD",
           "type": "V",
           "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six/playlist.m3u8"
+        },
+        {
+          "name": "BD Only HD",
+          "type": "V",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
+          "source": "",
+          "referer": "",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8"
+        },
+        {
+          "name": "Fixed",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "",
+          "video": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8"
         },
         {
           "name": "Ayna 1",
@@ -1839,12 +1921,12 @@
           "video": ""
         },
         {
-          "name": "Ayna2 Fixed",
+          "name": "Ayna 2",
           "type": "V",
           "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=91"
+          "source": "https://entezeetv.fun/ayna/play.php?id=83",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
         },
         {
           "name": "Web 1",
@@ -1863,6 +1945,12 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=91"
+        },
+        {
+          "name": "Web 3",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=83"
         }
       ]
     },
@@ -4771,68 +4859,6 @@
           "source": "",
           "referer": "",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/star_jalsha/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "SONY SPORTS TEN 2 HD",
-      "image": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten2_hd/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "SONY SPORTS TEN 5 HD",
-      "image": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8"
-        },
-        {
-          "name": "Fixed",
-          "type": "V",
-          "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "SONY SPORTS TEN 1 HD",
-      "image": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703862182:KeyName=prod_linear:Signature=zaMDz5DimyFTspp8YUfDKlw1LHDerf0cLn-UyuH8QrQRocnj380z5-Cy5Ihwpl4fH5rCvpf16Usneshnuzz2BA",
-          "source": "",
-          "referer": "",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8"
         }
       ]
     },
