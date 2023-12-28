@@ -3221,6 +3221,30 @@
       ]
     },
     {
+      "name": "ARY Digital",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/db/ARY_Digital_Network.jpg",
+      "category": "news",
+      "hot": "",
+      "country": "pk",
+      "language": "pk",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=182",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=182"
+        }
+      ]
+    },
+    {
       "name": "Channel 24",
       "image": "https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png",
       "category": "news",
