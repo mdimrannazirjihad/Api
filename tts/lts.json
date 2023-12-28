@@ -4925,6 +4925,30 @@
       ]
     },
     {
+      "name": "ARY Qtv",
+      "image": "https://i.ibb.co/hH2WTq3/madina-tv.png_NEBEVI_-_panoramio.jpg",
+      "category": "religion",
+      "hot": "true",
+      "country": "pk",
+      "language": "pk",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=185",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=185"
+        }
+      ]
+    },
+    {
       "name": "Disney",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/220px-2014_Disney_Channel_logo.svg.png",
       "category": "",
@@ -5713,6 +5737,20 @@
           "source": "",
           "referer": "",
           "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=109",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=109"
         }
       ]
     },
@@ -5739,6 +5777,20 @@
           "source": "",
           "referer": "",
           "video": "https://dangalplaycdn.vidgyor.com/pub-iodanga2a26kj2/liveabr/playlist.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=101",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=101"
         }
       ]
     },
@@ -6393,6 +6445,20 @@
           "source": "",
           "referer": "",
           "video": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=99",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=99"
         }
       ]
     },
@@ -6637,6 +6703,222 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=155"
+        }
+      ]
+    },
+    {
+      "name": "BFLIX MOVIES",
+      "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=163",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=163"
+        }
+      ]
+    },
+    {
+      "name": "DHINCHAAK",
+      "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=153",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=153"
+        }
+      ]
+    },
+    {
+      "name": "B4U KADAK",
+      "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=149",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=149"
+        }
+      ]
+    },
+    {
+      "name": "B4U HITZ",
+      "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=90",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=190"
+        }
+      ]
+    },
+    {
+      "name": "DHAMAKA MOVIES",
+      "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=191",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=191"
+        }
+      ]
+    },
+    {
+      "name": "Movie Today",
+      "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=188",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=188"
+        }
+      ]
+    },
+    {
+      "name": "DABANG",
+      "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=150",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=150"
+        }
+      ]
+    },
+    {
+      "name": "DHAMAAL",
+      "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=152",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=152"
+        }
+      ]
+    },
+    {
+      "name": "Cinema TV India",
+      "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=151",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=151"
         }
       ]
     },
