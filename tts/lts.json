@@ -2929,6 +2929,30 @@
       ]
     },
     {
+      "name": "SPORT FISHING",
+      "image": "https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",
+      "category": "doc",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=226",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=226"
+        }
+      ]
+    },
+    {
       "name": "Discovery Science",
       "image": "https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png",
       "category": "doc",
@@ -6567,6 +6591,20 @@
           "source": "",
           "referer": "",
           "video": "https://mhdtvplay.net/delta/discovery/api/TLC_Hindi.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=57",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=57"
         }
       ]
     },
@@ -6593,14 +6631,6 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=44",
           "referer": "https://watchmhdtv.com",
           "video": ""
-        },
-        {
-          "name": "Ayna2 Fixed",
-          "type": "V",
-          "cookie": "",
-          "source": "",
-          "referer": "",
-          "video": "https://bdtubelive.000webhostapp.com/ayna.m3u8/?id=44"
         },
         {
           "name": "Web 1",
@@ -7173,6 +7203,30 @@
       ]
     },
     {
+      "name": "Travel XP",
+      "image": "https://i.ibb.co/N9ZzRqC/animal-planet.png",
+      "category": "doc",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=128",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=128"
+        }
+      ]
+    },
+    {
       "name": "Joo Music",
       "image": "https://i.ibb.co/ysQd437/joo-music.png",
       "category": "music",
@@ -7385,6 +7439,44 @@
           "source": "",
           "referer": "",
           "video": "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=194",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=194"
+        }
+      ]
+    },
+    {
+      "name": "Food Network",
+      "image": "https://i.ibb.co/rfxj7pS/food-food.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=131",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=131"
         }
       ]
     },
