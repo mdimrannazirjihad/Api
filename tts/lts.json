@@ -1547,6 +1547,20 @@
       "language": "",
       "myList": [
         {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=108",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=108"
+        },
+        {
           "name": "Sports1 France",
           "type": "V",
           "cookie": "",
@@ -7745,6 +7759,30 @@
       ]
     },
     {
+      "name": "Manoranjan Tv",
+      "image": "https://i.ibb.co/CJjZBMJ/manarangan-tv.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=169",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=169"
+        }
+      ]
+    },
+    {
       "name": "Gubbare",
       "image": "https://i.ibb.co/1LFW2nj/gubbra-tv-hindi.png",
       "category": "kids",
@@ -8131,6 +8169,30 @@
       ]
     },
     {
+      "name": "PRIME FIGHT HD TV",
+      "image": "https://i.ibb.co/njmZWVT/masti-tv.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=227",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=227"
+        }
+      ]
+    },
+    {
       "name": "DILLAGI TV",
       "image": "https://i.ibb.co/CW63grj/dilllagi-tv.png",
       "category": "music",
@@ -8187,6 +8249,20 @@
           "source": "",
           "referer": "",
           "video": "https://dangalplaycdn.vidgyor.com/pub-iodanga2a26kj2/liveabr/playlist.m3u8"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=167",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=167"
         }
       ]
     },
@@ -8205,6 +8281,78 @@
           "source": "",
           "referer": "",
           "video": "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "BOLLYWOOD 4U",
+      "image": "https://i.ibb.co/MfFmZGM/bollywod-clasic.png",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=230",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=230"
+        }
+      ]
+    },
+    {
+      "name": "COLOUR BLIND",
+      "image": "https://i.ibb.co/MfFmZGM/bollywod-clasic.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=229",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=229"
+        }
+      ]
+    },
+    {
+      "name": "ABC SPARK",
+      "image": "https://i.ibb.co/MfFmZGM/bollywod-clasic.png",
+      "category": "entertainment",
+      "hot": "",
+      "country": "",
+      "language": "",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=198",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=198"
         }
       ]
     },
