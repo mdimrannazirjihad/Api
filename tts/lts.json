@@ -2645,7 +2645,21 @@
           "video": "https://yuppftalive.akamaized.net/080823/khushboobangla/playlist.m3u8"
         },
         {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=157",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
           "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=157"
+        },
+        {
+          "name": "Web 2",
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1282&amp;c=Khusboo_TV"
@@ -4345,7 +4359,7 @@
       ]
     },
     {
-      "name": "Colors_HD Hindi",
+      "name": "Colors",
       "image": "https://images.toffeelive.com/images/program/2425/logo/240x240/mobile_logo_844782001655891780.png",
       "category": "entertainment",
       "hot": "",
@@ -4373,6 +4387,20 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://livevoot.co.in/jiovoot/play.php?c=Colors_HD"
+        },
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=106",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=106"
         }
       ]
     },
@@ -5274,7 +5302,7 @@
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
-          "server": "https://entezeetv.fun/ayna/play.php?id=106"
+          "server": "https://entezeetv.fun/ayna/play.php?id=95"
         }
       ]
     },
