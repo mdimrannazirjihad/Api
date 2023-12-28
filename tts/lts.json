@@ -743,6 +743,78 @@
       ]
     },
     {
+      "name": "TSN 1",
+      "image": "https://i.ibb.co/jZ9mSDN/arena-sport-bih.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Canada",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=115",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=115"
+        }
+      ]
+    },
+    {
+      "name": "TSN 2",
+      "image": "https://i.ibb.co/jZ9mSDN/arena-sport-bih.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Canada",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=116",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=116"
+        }
+      ]
+    },
+    {
+      "name": "TSN 3",
+      "image": "https://i.ibb.co/jZ9mSDN/arena-sport-bih.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Canada",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=117",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=117"
+        }
+      ]
+    },
+    {
       "name": "SKY MainEvant",
       "image": "https://i.ibb.co/7NbYYH9/sky-sports-main-evant.png",
       "category": "Sports",
@@ -877,6 +949,54 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=46"
+        }
+      ]
+    },
+    {
+      "name": "Fox Sports 1",
+      "image": "https://i.ibb.co/s22s4Tz/a-sports.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=107",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=107"
+        }
+      ]
+    },
+    {
+      "name": "ESPN CFP",
+      "image": "https://i.ibb.co/s22s4Tz/a-sports.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Ayna 1",
+          "type": "V",
+          "cookie": "",
+          "source": "https://entezeetv.fun/ayna/play.php?id=114",
+          "referer": "https://mhdtvplay.net/",
+          "video": ""
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdtvplay.net/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=114"
         }
       ]
     },
