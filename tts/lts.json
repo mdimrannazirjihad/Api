@@ -976,6 +976,80 @@
         }
       ]
     },
+
+    {
+      "name": "SuperSport Variety 1",
+      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy3/premium416/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "SuperSport Variety 2",
+      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy3/premium417/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "SuperSport Variety 3",
+      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh1/premium418/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "SuperSport Variety 4",
+      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy3/premium419/playlist.m3u8"
+        }
+      ]
+    },
+
     {
       "name": "TLT Sports",
       "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
