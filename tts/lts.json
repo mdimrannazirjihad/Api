@@ -976,10 +976,9 @@
         }
       ]
     },
-
     {
       "name": "SuperSport Variety 1",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/TH8p5ZS/super-sport-variety1.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -997,7 +996,7 @@
     },
     {
       "name": "SuperSport Variety 2",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/GWX6vfS/super-sport-variety2.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1015,7 +1014,7 @@
     },
     {
       "name": "SuperSport Variety 3",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/Xpp93nN/super-sport-variety3.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1033,7 +1032,7 @@
     },
     {
       "name": "SuperSport Variety 4",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/rQWtqrn/super-sport-variety4.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1051,7 +1050,7 @@
     },
     {
       "name": "SuperSport Action",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/4thRKdc/super-sport-action.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1069,7 +1068,7 @@
     },
     {
       "name": "SuperSport Rugby",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/cQtc4FG/super-sport-rugby.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1087,7 +1086,7 @@
     },
     {
       "name": "SuperSport Golf",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/Cbh7DP7/super-sport-golf.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1105,7 +1104,7 @@
     },
     {
       "name": "SuperSport Tennis",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/RCwqDNj/super-sport-tennis.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1123,7 +1122,7 @@
     },
     {
       "name": "SuperSport Motorsport",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/7SHDSnR/super-sport-motosports.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1141,7 +1140,7 @@
     },
     {
       "name": "Supersport Football",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/sjv0vp4/super-sport-foodball.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1159,7 +1158,7 @@
     },
     {
       "name": "SuperSport Cricket",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/kxF8whd/super-sport-cricket.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1177,7 +1176,7 @@
     },
     {
       "name": "SuperSport MaXimo 1",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/LNKprnG/super-sport-maximo1.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1195,7 +1194,7 @@
     },
     {
       "name": "SuperSport PSL",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/XtQjmyt/Super-Sport-PSl.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1213,7 +1212,7 @@
     },
     {
       "name": "SuperSport Premier league",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/8dBzVsG/super-sport-primium-luge.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1231,7 +1230,7 @@
     },
     {
       "name": "SuperSport LaLiga",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/5jrWp0t/super-sport-laliga.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1249,7 +1248,7 @@
     },
     {
       "name": "SuperSport Grandstand",
-      "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
+      "image": "https://i.ibb.co/XbVcjHy/super-sport-granstar.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -1265,7 +1264,6 @@
         }
       ]
     },
-
     {
       "name": "TLT Sports",
       "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
