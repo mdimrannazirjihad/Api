@@ -215,6 +215,78 @@
       ]
     },
     {
+      "name": "Astro SuperSport 1",
+      "image": "https://i.ibb.co/M2ntjsR/astro-super-sport1.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Malaysia",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy4/premium123/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Astro SuperSport 2",
+      "image": "https://i.ibb.co/BB78Jmr/astro-super-sport2.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Malaysia",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh2/premium124/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Astro SuperSport 3",
+      "image": "https://i.ibb.co/6ZSqPJm/astro-super-sport3.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Malaysia",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh2/premium125/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Astro SuperSport 4",
+      "image": "https://i.ibb.co/tzVqhJ6/astro-super-sport4.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Malaysia",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh2/premium126/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
       "name": "Star select 1",
       "image": "https://i.ibb.co/MB3hjfK/star-select1.png",
       "category": "Sports",
