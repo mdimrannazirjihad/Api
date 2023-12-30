@@ -1193,6 +1193,226 @@
       ]
     },
     {
+      "name": "Canal+ Sport 1",
+      "image": "https://i.ibb.co/TRDXsC6/canal-sport1.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "france",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Afrique",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://webudit.webhd.ru/lb/premium486/index.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Canal+ Sport 2",
+      "image": "https://i.ibb.co/PFQM1Nk/canal-sport2.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "france",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Afrique",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium487/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": "Poland",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium73/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Canal+ Sport 3",
+      "image": "https://i.ibb.co/mc7T4Th/canal-sport3.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "france",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Afrique",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium488/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Canal+ Sport 4",
+      "image": "https://i.ibb.co/86P0ZPc/canal-sport4.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "france",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Afrique",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium489/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Canal+ Sport 5",
+      "image": "https://i.ibb.co/q5TSgDM/canal-sport5.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "france",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Poland",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy4/premium75/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": " Afrique",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium490/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Eleven Sports 1",
+      "image": "https://i.ibb.co/N2rS6Yp/eleven-sports1.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "uk",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Poland",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy2/premium71/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": " Portugal",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh1/premium455/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Eleven Sports 2",
+      "image": "https://i.ibb.co/3B097Jj/eleven-sports2.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "uk",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Poland",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy2/premium72/tracks-t1/mono.m3u8"
+        },
+        {
+          "name": " Portugal",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy4/premium456/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Eleven Sports 3",
+      "image": "https://i.ibb.co/8PbxbBY/eleven-sports3.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "uk",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Poland",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh1/premium428/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": " Portugal",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy4/premium457/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Eleven Sports 4",
+      "image": "https://i.ibb.co/6D7sNQ5/eleven-sports4.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "uk",
+      "language": "en",
+      "myList": [
+        {
+          "name": " Portugal",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy4/premium458/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Eleven Sports 5",
+      "image": "https://i.ibb.co/hRCcWzC/eleven-sports5.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "uk",
+      "language": "en",
+      "myList": [
+        {
+          "name": " Portugal",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy4/premium459/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
       "name": "TLT Sports",
       "image": "https://i.ibb.co/vBC8NmM/tlt-sports.jpg",
       "category": "",
