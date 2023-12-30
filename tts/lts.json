@@ -909,6 +909,14 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://faketv.co.in/criclife/skygolf.php"
+        },
+        {
+          "name": "UK",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy4/premium70/tracks-v1a1/mono.m3u8"
         }
       ]
     },
@@ -925,6 +933,14 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://faketv.co.in/criclife/skyepl.php"
+        },
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy3/premium130/tracks-v1a1/mono.m3u8"
         }
       ]
     },
@@ -941,6 +957,22 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://faketv.co.in/criclife/skyfootball.php"
+        },
+        {
+          "name": "UK",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/esx3/premium35/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": "Italy",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy3/premium460/tracks-v1a1/mono.m3u8"
         }
       ]
     },
@@ -957,6 +989,22 @@
           "type": "W",
           "host": "https://crichd.vip/cha10-manchester-city-live-stream",
           "server": "http://stream.crichd.vip/update/skysarena.php"
+        },
+        {
+          "name": "Uk",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/esx3/premium60/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": "Italy",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium462/tracks-v1a1/mono.m3u8"
         }
       ]
     },
@@ -973,6 +1021,62 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://faketv.co.in/criclife/skymix.php"
+        },
+        {
+          "name": "UK",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium449/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": "DE",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh1/premium557/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Sky Sports News",
+      "image": "https://i.ibb.co/tsSRZnJ/sky-sports-news.jpg",
+      "category": "",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
+          "server": "http://stream.crichd.vip/update/skysn.php"
+        },
+        {
+          "name": "UK",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy4/premium366/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Sky Sports Action",
+      "image": "https://i.ibb.co/C7TTHmh/sky-sports-action.png",
+      "category": "",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
+          "server": "http://stream.crichd.vip/update/skys3.php"
         }
       ]
     },
@@ -5481,38 +5585,6 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=35"
-        }
-      ]
-    },
-    {
-      "name": "Sky Sports News",
-      "image": "https://i.ibb.co/tsSRZnJ/sky-sports-news.jpg",
-      "category": "",
-      "hot": "",
-      "country": "us",
-      "language": "",
-      "myList": [
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
-          "server": "http://stream.crichd.vip/update/skysn.php"
-        }
-      ]
-    },
-    {
-      "name": "Sky Sports Action",
-      "image": "https://i.ibb.co/C7TTHmh/sky-sports-action.png",
-      "category": "",
-      "hot": "",
-      "country": "us",
-      "language": "",
-      "myList": [
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
-          "server": "http://stream.crichd.vip/update/skys3.php"
         }
       ]
     },
