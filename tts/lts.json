@@ -1265,6 +1265,32 @@
       ]
     },
     {
+      "name": "Canal+ Sport",
+      "image": "https://i.ibb.co/WgKt9kY/Canal-Sport.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "france",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Poland",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium48/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": "France",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddh2/premium122/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
       "name": "Canal+ Sport 1",
       "image": "https://i.ibb.co/TRDXsC6/canal-sport1.png",
       "category": "Sports",
