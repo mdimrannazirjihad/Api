@@ -1871,6 +1871,14 @@
           "video": ""
         },
         {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium614/tracks-a1/mono.m3u8"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -1891,6 +1899,14 @@
           "type": "W",
           "host": "https://forja.me/",
           "server": "https://forja.me/stream/CK.php?id=002"
+        },
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium615/tracks-v1a1/mono.m3u8"
         }
       ]
     },
@@ -1907,6 +1923,14 @@
           "type": "W",
           "host": "https://forja.me/",
           "server": "https://forja.me/stream/CK.php?id=003"
+        },
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium616/playlist.m3u8"
         }
       ]
     },
@@ -1923,6 +1947,14 @@
           "type": "W",
           "host": "https://forja.me/",
           "server": "https://forja.me/stream/CK.php?id=004"
+        },
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium617/tracks-v1a1/mono.m3u8"
         }
       ]
     },
@@ -1939,6 +1971,14 @@
           "type": "W",
           "host": "https://forja.me/",
           "server": "https://forja.me/stream/CK.php?id=005"
+        },
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium618/tracks-v1a1/mono.m3u8"
         }
       ]
     },
@@ -1955,6 +1995,14 @@
           "type": "W",
           "host": "https://forja.me/",
           "server": "https://forja.me/stream/CK.php?id=005"
+        },
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium619/tracks-v1a1/mono.m3u8"
         }
       ]
     },
@@ -1971,6 +2019,14 @@
           "type": "W",
           "host": "https://forja.me/",
           "server": "https://forja.me/stream/CK.php?id=5112"
+        },
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium620/tracks-v1a1/mono.m3u8"
         }
       ]
     },
@@ -1987,6 +2043,14 @@
           "type": "W",
           "host": "https://forja.me/",
           "server": "https://forja.me/stream/CK.php?id=5113"
+        },
+        {
+          "name": "Video",
+          "type": "V",
+          "cookie": "",
+          "source": "",
+          "referer": "https://weblivehdplay.ru/",
+          "video": "https://12.webhd.ru/ddy5/premium621/playlist.m3u8"
         }
       ]
     },
