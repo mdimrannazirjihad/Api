@@ -313,7 +313,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=star1in&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=star1in|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Fixed",
@@ -344,7 +344,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=star2in&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=star2in|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Fixed",
@@ -375,7 +375,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=skyscric&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=skyscric|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -424,7 +424,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=willowusa&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=willowusa|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Video",
@@ -471,7 +471,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=bbtsp1&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=bbtsp1|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -502,7 +502,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=bbtsp2&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=bbtsp2|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -528,7 +528,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=bbtsp3&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=bbtsp3|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         }
       ]
     },
@@ -548,7 +548,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=bbtespn&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=bbtespn|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         }
       ]
     },
@@ -708,7 +708,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=tsn1ca&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=tsn1ca|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -734,7 +734,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=tsn2ca&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=tsn2ca|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -760,7 +760,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=tsn3ca&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=tsn3ca|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -829,7 +829,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=skysme&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=skysme|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         }
       ]
     },
@@ -844,7 +844,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=skysgol&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=skysgol|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -870,7 +870,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=skysprem&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=skysprem|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -896,7 +896,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=skysfott&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=skysfott|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -927,7 +927,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=skysare&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=skysare|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -958,7 +958,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=skysmixx&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=skysmixx|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -989,7 +989,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=skysnewsuk&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=skysnewsuk|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -1015,7 +1015,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=skysact&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=skysact|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -1036,7 +1036,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=superspv1&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=superspv1|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Video",
@@ -1056,7 +1056,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=superspv2&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=superspv2|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Video",
@@ -1076,7 +1076,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=superspv3&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=superspv3|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Video",
@@ -1096,7 +1096,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=superspv4&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=superspv4|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Video",
@@ -1196,7 +1196,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=superspfb&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=superspfb|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Video",
@@ -1619,7 +1619,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=asports&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=asports|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -1666,7 +1666,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=ptvpk&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=ptvpk|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -1735,17 +1735,17 @@
         {
           "name": "Viaplay 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=viaplaysp1&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=viaplaysp1|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Viaplay 2",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=viaplaysp2&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=viaplaysp2|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Viaplay EXtra",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=viaplayextra&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=viaplayextra|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Fixed",
@@ -2441,7 +2441,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=ten1endia&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=ten1endia|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -2500,7 +2500,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=ten2endia&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=ten2endia|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -2559,7 +2559,7 @@
         {
           "name": "Link 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=ten3endia&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=ten3endia|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -5082,12 +5082,12 @@
         {
           "name": "Euro Sport 1",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=eurosp1&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=eurosp1|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         },
         {
           "name": "Euro Sport 2",
           "type": "V",
-          "video": "getLink:https://bigcast.xyz/embed.php?v=eurosp2&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+          "video": "getLink:https://bigcast.xyz/embed.php?v=eurosp2|Referer=https://bigcast.xyz|vRef=https://bigcast.xyz"
         }
       ]
     },
