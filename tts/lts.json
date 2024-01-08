@@ -1159,6 +1159,11 @@
       "language": "en",
       "myList": [
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getLink:https://lovesomecommunity.com/crichdlun.php?player=desktop&live=supertennis|Referer=https://stream.crichd.vip/|vRef=https://lovesomecommunity.com/"
+        },
+        {
           "name": "Video",
           "type": "V",
           "video": "https://12.webhd.ru/ddy3/premium423/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
@@ -1209,6 +1214,11 @@
       "language": "en",
       "myList": [
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getLink:https://lovesomecommunity.com/crichdlun.php?player=desktop&live=supergolf|Referer=https://stream.crichd.vip/|vRef=https://lovesomecommunity.com/"
+        },
+        {
           "name": "Video",
           "type": "V",
           "video": "https://12.webhd.ru/ddh2/premium368/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
@@ -1239,6 +1249,11 @@
       "language": "en",
       "myList": [
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getLink:https://lovesomecommunity.com/crichdlun.php?player=desktop&live=superpsl|Referer=https://stream.crichd.vip/|vRef=https://lovesomecommunity.com/"
+        },
+        {
           "name": "Video",
           "type": "V",
           "video": "https://12.webhd.ru/ddy3/premium413/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
@@ -1253,6 +1268,11 @@
       "country": "us",
       "language": "en",
       "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getLink:https://lovesomecommunity.com/crichdlun.php?player=desktop&live=superpremier|Referer=https://stream.crichd.vip/|vRef=https://lovesomecommunity.com/"
+        },
         {
           "name": "Video",
           "type": "V",
@@ -1283,6 +1303,11 @@
       "country": "us",
       "language": "en",
       "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getLink:https://lovesomecommunity.com/crichdlun.php?player=desktop&live=supergrandstand|Referer=https://stream.crichd.vip/|vRef=https://lovesomecommunity.com/"
+        },
         {
           "name": "Video",
           "type": "V",
@@ -1554,6 +1579,16 @@
           "name": "Ayna 1",
           "type": "V",
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=114|referer=https://mhdtvplay.net/"
+        },
+        {
+          "name": "ESPN USA",
+          "type": "V",
+          "video": "getLink:https://lovesomecommunity.com/crichdlun.php?player=desktop&live=espnusa|Referer=https://stream.crichd.vip/|vRef=https://lovesomecommunity.com/"
+        },
+        {
+          "name": "ESPN 2",
+          "type": "V",
+          "video": "getLink:https://lovesomecommunity.com/crichdlun.php?player=desktop&live=espn2|Referer=https://stream.crichd.vip/|vRef=https://lovesomecommunity.com/"
         },
         {
           "name": "Web 1",
