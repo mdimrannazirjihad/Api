@@ -310,6 +310,13 @@
       "country": "india",
       "language": "",
       "myList": [
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=star1in&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Fixed",
           "type": "V",
@@ -336,6 +343,13 @@
       "country": "india",
       "language": "",
       "myList": [
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=star2in&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Fixed",
           "type": "V",
@@ -355,13 +369,18 @@
       ]
     },
     {
-      "name": "Sky Sports",
+      "name": "Sky Cricket",
       "image": "https://i.ibb.co/qFpTvMP/sky-sports-cricked.png",
       "category": "Sports",
       "hot": "true",
       "country": "uk",
       "language": "",
       "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=skyscric&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
         {
           "name": "Web 1",
           "type": "W",
@@ -406,6 +425,13 @@
       "country": "us",
       "language": "",
       "myList": [
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=willowusa&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Video",
           "type": "V",
@@ -453,7 +479,6 @@
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=bbtsp1&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -485,7 +510,6 @@
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=bbtsp2&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -527,7 +551,6 @@
           "type": "V",
           "video": "https://12.webhd.ru/ddh2/premium34/playlist.m3u8|referer=https://weblivehdplay.ru/"
         },
-
         {
           "name": "Link 1",
           "type": "V",
@@ -793,6 +816,11 @@
           "type": "W",
           "host": "https://mhdtvplay.net/",
           "server": "https://faketv.co.in/criclife/skymain.php"
+        },
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=skysme&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         }
       ]
     },
@@ -804,6 +832,13 @@
       "country": "us",
       "language": "",
       "myList": [
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=skysgol&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Web 1",
           "type": "W",
@@ -825,6 +860,13 @@
       "country": "us",
       "language": "",
       "myList": [
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=skysprem&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Web 1",
           "type": "W",
@@ -846,6 +888,13 @@
       "country": "us",
       "language": "",
       "myList": [
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=skysfott&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Web 1",
           "type": "W",
@@ -872,6 +921,13 @@
       "country": "us",
       "language": "",
       "myList": [
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=skysare&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Web 1",
           "type": "W",
@@ -898,6 +954,13 @@
       "country": "us",
       "language": "",
       "myList": [
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=skysmixx&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Web 1",
           "type": "W",
@@ -924,6 +987,13 @@
       "country": "us",
       "language": "",
       "myList": [
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=skysnewsuk&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Web 1",
           "type": "W",
@@ -945,6 +1015,13 @@
       "country": "us",
       "language": "",
       "myList": [
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=skysact&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Web 1",
           "type": "W",
@@ -1531,6 +1608,13 @@
           "type": "V",
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=47|referer=https://mhdtvplay.net/"
         },
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=ptvpk&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
         {
           "name": "Web 1",
           "type": "W",
