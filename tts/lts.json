@@ -449,6 +449,12 @@
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=118|referer=https://mhdtvplay.net/"
         },
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=bbtsp1&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -475,6 +481,12 @@
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=119|referer=https://mhdtvplay.net/"
         },
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=bbtsp2&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -494,6 +506,11 @@
           "name": "UK",
           "type": "V",
           "video": "https://12.webhd.ru/ddh2/premium33/playlist.m3u8|referer=https://weblivehdplay.ru/"
+        },
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=bbtsp3&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         }
       ]
     },
@@ -509,6 +526,12 @@
           "name": "Uk",
           "type": "V",
           "video": "https://12.webhd.ru/ddh2/premium34/playlist.m3u8|referer=https://weblivehdplay.ru/"
+        },
+
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=bbtespn&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         }
       ]
     },
@@ -1455,6 +1478,16 @@
           "name": "Ayna 1",
           "type": "V",
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=68|referer=https://mhdtvplay.net/"
+        },
+        {
+          "name": "Link 1 HD",
+          "type": "V",
+          "video": "https://lovesomecommunity.com/crichdlun.php?player=desktop&live=asportshd|Referer=https://stream.crichd.vip/|vRef=https://lovesomecommunity.com/"
+        },
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=asports&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
