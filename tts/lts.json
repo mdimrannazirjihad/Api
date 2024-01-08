@@ -310,13 +310,11 @@
       "country": "india",
       "language": "",
       "myList": [
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=star1in&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Fixed",
           "type": "V",
@@ -343,13 +341,11 @@
       "country": "india",
       "language": "",
       "myList": [
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=star2in&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Fixed",
           "type": "V",
@@ -425,13 +421,11 @@
       "country": "us",
       "language": "",
       "myList": [
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=willowusa&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Video",
           "type": "V",
@@ -712,6 +706,11 @@
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=115|referer=https://mhdtvplay.net/"
         },
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=tsn1ca&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -733,6 +732,11 @@
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=116|referer=https://mhdtvplay.net/"
         },
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=tsn2ca&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -752,6 +756,11 @@
           "name": "Ayna 1",
           "type": "V",
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=117|referer=https://mhdtvplay.net/"
+        },
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=tsn3ca&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -832,13 +841,11 @@
       "country": "us",
       "language": "",
       "myList": [
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=skysgol&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -860,13 +867,11 @@
       "country": "us",
       "language": "",
       "myList": [
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=skysprem&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -888,13 +893,11 @@
       "country": "us",
       "language": "",
       "myList": [
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=skysfott&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -921,13 +924,11 @@
       "country": "us",
       "language": "",
       "myList": [
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=skysare&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -954,13 +955,11 @@
       "country": "us",
       "language": "",
       "myList": [
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=skysmixx&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -987,13 +986,11 @@
       "country": "us",
       "language": "",
       "myList": [
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=skysnewsuk&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -1015,13 +1012,11 @@
       "country": "us",
       "language": "",
       "myList": [
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=skysact&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -1039,6 +1034,11 @@
       "language": "en",
       "myList": [
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=superspv1&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+        {
           "name": "Video",
           "type": "V",
           "video": "https://12.webhd.ru/ddy3/premium416/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
@@ -1053,6 +1053,11 @@
       "country": "us",
       "language": "en",
       "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=superspv2&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
         {
           "name": "Video",
           "type": "V",
@@ -1069,6 +1074,11 @@
       "language": "en",
       "myList": [
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=superspv3&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+        {
           "name": "Video",
           "type": "V",
           "video": "https://12.webhd.ru/ddh1/premium418/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
@@ -1083,6 +1093,11 @@
       "country": "us",
       "language": "en",
       "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=superspv4&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
         {
           "name": "Video",
           "type": "V",
@@ -1173,6 +1188,11 @@
       "country": "us",
       "language": "en",
       "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=superspfb&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
         {
           "name": "Video",
           "type": "V",
@@ -1608,13 +1628,11 @@
           "type": "V",
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=47|referer=https://mhdtvplay.net/"
         },
-
         {
           "name": "Link 1",
           "type": "V",
           "video": "https://bigcast.xyz/embed.php?v=ptvpk&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
-
         {
           "name": "Web 1",
           "type": "W",
@@ -1679,6 +1697,21 @@
       "country": "india",
       "language": "",
       "myList": [
+        {
+          "name": "Viaplay 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=viaplaysp1&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+        {
+          "name": "Viaplay 2",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=viaplaysp2&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+        {
+          "name": "Viaplay EXtra",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=viaplayextra&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
         {
           "name": "Fixed",
           "type": "V",
@@ -2371,6 +2404,11 @@
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=84|referer=https://mhdtvplay.net/"
         },
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=ten1endia&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -2425,6 +2463,11 @@
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=88|referer=https://mhdtvplay.net/"
         },
         {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=ten2endia&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+        {
           "name": "Web 1",
           "type": "W",
           "host": "https://mhdtvplay.net/",
@@ -2477,6 +2520,11 @@
           "name": "Ayna 2 SD",
           "type": "V",
           "video": "getLink:https://entezeetv.fun/ayna/play.php?id=85|referer=https://mhdtvplay.net/"
+        },
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=ten3endia&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         },
         {
           "name": "Web 1",
@@ -4979,21 +5027,6 @@
       ]
     },
     {
-      "name": "Euro Sport HD",
-      "image": "https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png",
-      "category": "toffee",
-      "hot": "",
-      "country": "",
-      "language": "",
-      "myList": [
-        {
-          "name": "BD Only",
-          "type": "V",
-          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1704771242:KeyName=prod_linear:Signature=CKgJ7TrN80EJNyo-O6CFSkDbRTUv2i-qVu-yqVzassc7EU0MEJbHZ6-gFmF6G7tQOiGpUNpyxzkHWJ4MhnkVCw"
-        }
-      ]
-    },
-    {
       "name": "Euro Sport",
       "image": "https://images.toffeelive.com/images/program/4387/logo/240x240/mobile_logo_412057001674119486.png",
       "category": "toffee",
@@ -5002,9 +5035,24 @@
       "language": "",
       "myList": [
         {
-          "name": "BD Only",
+          "name": "BD Only HD",
+          "type": "V",
+          "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1704771242:KeyName=prod_linear:Signature=CKgJ7TrN80EJNyo-O6CFSkDbRTUv2i-qVu-yqVzassc7EU0MEJbHZ6-gFmF6G7tQOiGpUNpyxzkHWJ4MhnkVCw"
+        },
+        {
+          "name": "BD Only SD",
           "type": "V",
           "video": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_sd/playlist.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1704771242:KeyName=prod_linear:Signature=CKgJ7TrN80EJNyo-O6CFSkDbRTUv2i-qVu-yqVzassc7EU0MEJbHZ6-gFmF6G7tQOiGpUNpyxzkHWJ4MhnkVCw"
+        },
+        {
+          "name": "Euro Sport 1",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=eurosp1&vw=100%&vh=100%|vRef=https://bigcast.xyz"
+        },
+        {
+          "name": "Euro Sport 2",
+          "type": "V",
+          "video": "https://bigcast.xyz/embed.php?v=eurosp2&vw=100%&vh=100%|vRef=https://bigcast.xyz"
         }
       ]
     },
